@@ -1,0 +1,2401 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+	<title>浙江杭州市萧政储出（2020）38号地块 - 浙江省杭州市工程信息网 - 天工网</title>
+	<meta name="description" content="&lt;p&gt;&lt;strong&gt;浙江杭州市萧政储出（2020）38号地块&lt;/strong&gt;&lt;/p&gt;信息由天工网专人生产：&lt;a title=&#39;浙江杭州市萧政储出（2020）38号地块&#39; href=&#39;https:/" />
+	<meta name="keywords" content="浙江杭州市萧政储出（2020）38号地块，浙江省杭州市，工程信息，天工网，工程帮，拟在建项目，在建工程，招标信息，项目信息，在建项目" />
+	<meta name="renderer" content="webkit|ie-comp|ie-stand" />
+	<meta name="robots" content="all" />
+	<meta name="author" content="天工网" />
+	<meta name="Subject" content="工程信息、在建工程、拟在建项目" />
+	<meta name="Copyright" content="www.tgnet.com,天工网" />
+	<script type="text/javascript" src="//js.tgimg.cn/jquery/base/jquery.min.js"></script>
+	<script type="text/javascript" src="//js.tgimg.cn/jquery/base/jquery.ui.1.2.js?v=202201201001"></script>
+	<script src="//js.tgimg.cn/project/V4/popupCommon.js?v=202212091833" type="text/javascript" charset="gb2312"></script>
+	<script charset="UTF-8">
+    var sensors ={
+      'track':function(){
+        return false;
+      },
+      'setOnceProfile':function(){
+        return false;
+      },
+      'login':function(){
+        return false;
+      },
+    };
+	</script>
+	
+    
+    <link rel="stylesheet" type="text/css" href="//css.tgimg.cn/Project/V3/idangerous.swiper.css" />
+    <script src="//js.tgimg.cn/Project/V3/idangerous.swiper.min.js" type="text/javascript" charset="gb2312"></script>
+    <script src="//js.tgimg.cn/project/v2/countUp.js" type="text/javascript" charset="gb2312"></script>
+	<script src="//js.tgimg.cn/Common/renewalPop.js?v=202203081536" type="text/javascript" charset="gb2312"></script>
+    <script src="//js.tgimg.cn/Project/V4/detail.js?v=202302281635" type="text/javascript" charset="gb2312"></script>
+
+<style type="text/css">
+    .pop-mask {
+        width: 100%;
+        height: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: #333;
+        filter: alpha(opacity=50);
+        opacity: 0.5;
+        z-index: 1000;
+    }
+
+    .pop-module {
+        font-family: "microsoft yahei", "Hiragino Sans GB";
+        background-color: #fff;
+        border-radius: 6px;
+        box-sizing: border-box;
+    }
+
+        .pop-module .border-b {
+            border-bottom: 1px solid #e5e5e5;
+        }
+
+        .pop-module .pop-top {
+            position: relative;
+            height: 40px;
+            line-height: 40px;
+            padding: 0 16px;
+            font-size: 14px;
+            color: #333;
+            font-weight: bold;
+        }
+
+        .pop-module .align-center {
+            text-align: center;
+        }
+
+        .pop-module .pop-btn {
+            display: inline-block;
+            height: 32px;
+            line-height: 32px;
+            border-radius: 3px;
+            color: #fff;
+            background-color: #f60;
+            font-size: 14px;
+            padding: 0 24px;
+        }
+
+            .pop-module .pop-btn:hover {
+                background-color: #ff4e00;
+                text-decoration: none;
+            }
+
+        .pop-module .close-icon {
+            display: inline-block;
+            cursor: pointer;
+            position: absolute;
+            top: 4px;
+            right: 6px;
+            width: 32px;
+            height: 32px;
+            background: url("//img.tgimg.cn/Project/newJuniorDetail/close-icon.png") no-repeat;
+            background-position: 10px 10px;
+        }
+
+            .pop-module .close-icon:hover {
+                background: url("//img.tgimg.cn/Project/newJuniorDetail/close-icon-hover.png") no-repeat;
+                background-position: 10px 10px;
+            }
+
+    .confirm-pop {
+        position: fixed;
+        z-index: 1001;
+        width: 400px;
+    }
+
+        .confirm-pop .pop-content {
+            padding: 19px 16px 32px;
+            text-align: left;
+        }
+
+        .confirm-pop .error-text {
+            font-size: 14px;
+            line-height: 24px;
+            color: #333;
+            text-align: left;
+        }
+
+        .confirm-pop .pop-btn {
+            padding: 0 24px;
+            margin-top: 19px;
+        }
+
+    .tip-module {
+        position: fixed;
+        z-index: 101;
+    }
+
+    .tip-pop {
+        position: relative;
+        width: 328px;
+        padding: 4px 0 24px;
+        overflow: hidden;
+        border: 1px solid #E5E5E5;
+        box-shadow: 0px 4px 15px 1px rgba(51, 51, 51, 0.12);
+        margin-bottom: 16px;
+    }
+
+        .tip-pop .close-icon {
+            top: 6px;
+        }
+
+        .tip-pop .pop-btn {
+            padding: 0 16px;
+            margin-top: 16px;
+            float: right;
+            margin-right: 16px;
+        }
+
+        .tip-pop .content {
+            font-size: 14px;
+            line-height: 24px;
+            padding: 0 16px;
+        }
+</style>
+<script>
+    $(function () {
+        /*setting: {
+            content:"",
+            btnText:"",
+        }*/
+        function showConfirmPop(setting) {
+            var html = "";
+            if ($('#js-pop-mask').length == 0) {
+                $('body').append('<div class="pop-mask" id="js-pop-mask"></div>');
+            }
+            html = '<div class="pop-module confirm-pop" id="js-confirm-pop"><div class="pop-top border-b">提示</div>' +
+                '<a class="close-icon js-close-btn"></a><div class="pop-content"><p class="error-text">' + setting.content + '</p><div class="align-center"><a href="javascript:;" class="pop-btn js-close-btn">' + (setting.btnText ? setting.btnText : "确认") + '</a></div></div></div>';
+            if ($('#js-confirm-pop').length == 0) {
+                $('body').append(html);
+                $('#js-confirm-pop .js-close-btn').live("click", function () {
+                    $('#js-confirm-pop,#js-pop-mask').hide();
+                })
+            } else {
+                $('#js-confirm-pop .error-text').text(text);
+            }
+            popPosition($('#js-confirm-pop'));
+            $('#js-confirm-pop,#js-pop-mask').show();
+        };
+        //	弹窗位置
+        function popPosition($ele) {
+            var _thisPopW = $ele.width(),
+                _thisPopH = $ele.height(),
+                $windowH = $(window).height(),
+                $windowW = $(window).width();
+            $ele.css({
+                "top": ($windowH - _thisPopH) / 2 + 'px',
+                "left": ($windowW - _thisPopW) / 2 + 'px'
+            })
+        };
+        /*setting: {
+            title:"",
+            content:"",
+            isLeft:false,//是否显示在左边
+            btnText:"",
+            btnClick:function(){}
+        }*/
+        function showTip(setting) {
+            var id = (setting.isLeft ? "left" : "right") + "tip-module",
+                $pop = $('<div class="pop-module tip-pop js-tip-pop"><div class="pop-top">' + setting.title + '</div><a class="close-icon js-close-btn"></a><div class="content">' + setting.content + '</div><a href="javascript:;" class="pop-btn js-btn">' + setting.btnText + '</a></div>');
+            if (setting.btnClick) {
+                $(".js-btn", $pop).on("click", function () {
+                    setting.btnClick();
+                    $(this).parents(".js-tip-pop").remove();
+                })
+            };
+            $(".js-close-btn", $pop).on("click", function () {
+                $(this).parents(".js-tip-pop").remove();
+            })
+            if ($("#" + id).length == 0) {
+                var position = {},
+                    top = 0;
+                $('body').append('<div class="tip-module" id="' + id + '"></div>');
+                if ($("[name='page']").val() == "list") {//列表页
+                    top = $(".header").outerHeight() + $(".header-nav-main").outerHeight();
+                } else {//详情页
+                    top = $(".header").outerHeight();
+                }
+                position.top = top + 16 + "px";
+                if (setting.isLeft) {
+                    position.left = 16 + "px";
+                } else {
+                    position.right = 16 + "px";
+                }
+                $("#" + id).css(position);
+            }
+            $('#' + id).append($pop);
+        };
+        //设置当天23:59:59过期的cookie
+        function setDayOutCookie(objName, objValue) {
+            var curDate = new Date();
+            //当前时间戳
+            var curTamp = curDate.getTime();
+            //当日凌晨的时间戳,减去一毫秒是为了防止后续得到的时间不会达到00:00:00的状态
+            var curWeeHours = new Date(curDate.toLocaleDateString()).getTime() - 1;
+            //当日已经过去的时间（毫秒）
+            var passedTamp = curTamp - curWeeHours;
+            //当日剩余时间
+            var leftTamp = 24 * 60 * 60 * 1000 - passedTamp;
+            var leftTime = new Date();
+            leftTime.setTime(leftTamp + curTamp);
+            //创建cookie
+            document.cookie = objName + "=" + escape(objValue) + ";expires=" + leftTime.toGMTString() + "; path=/";
+        };
+
+        //获取Cookie的值
+        function getCookie(CookieName) {
+            var strCookie = document.cookie;
+            var arrCookie = strCookie.split("; ");
+            for (var i = 0; i < arrCookie.length; i++) {
+                var arr = arrCookie[i].split("=");
+                if (unescape(arr[0].replace(/(^\s*)|(\s*$)/g, "")) == CookieName)
+                    return unescape(arr[1]);
+            }
+            return "";
+        };
+        if($("[name='isSpider']").val()=='false'){
+          $.ajax({
+              type: "post",
+              url: "/System/AjaxHandler.ashx?op=PersonalUserPrompt",
+              dataType: "json",
+              success: function (res) {
+                  if (res.State == "0") { //成功
+                      var data = res.Data,
+                          title = "",
+                          content = "",
+                          btnText = "",
+                          btnClick,
+                          isLeft = false,
+                          isShowTip = false;
+                      if (!getCookie("primaryServieNotice") && data.showLT5DaysPopUp) {
+                          title = "服务通知";
+                          content = "会员服务仅剩" + data.remainDays + "天，即将失去会员身份和多项信息查看特权，本次续费立即减" + data.discountAmount + "元，请及时领取";
+                          btnText = "立即" + data.paidText;
+                          btnClick = function () {
+                              _hmt.push(['_trackEvent', 'primaryLT5Days', 'click', '初级服务通知——服务期小于5天']);
+                              window.location.href = "http://pay.tgnet.com";
+                          };
+                          isLeft = true;
+                          isShowTip = true;
+                          setDayOutCookie("primaryServieNotice", true);
+                      }
+                      if (!getCookie("primaryServieNotice") && data.showLT5ProjRemainCountPopUp) {
+                          title = "服务通知";
+                          content = "可查看信息条数仅剩" + data.remainProjCount + "条，即将失去多项信息查看特权，本次续费立即减" + data.discountAmount + "元，请及时领取";
+                          btnText = "立即" + data.paidText;
+                          btnClick = function () {
+                              _hmt.push(['_trackEvent', 'primaryLT5ProjRemainCount', 'click', '初级服务通知——消耗次数小于等于5条']);
+                              window.location.href = "http://pay.tgnet.com";
+                          };
+                          isLeft = true;
+                          isShowTip = true;
+                          setDayOutCookie("primaryServieNotice", true);
+                      }
+                      if (isShowTip) {
+                          showTip({
+                              "title": title,
+                              "content": content,
+                              "btnText": btnText,
+                              "btnClick": btnClick,
+                              "isLeft": isLeft
+                          });
+                      };
+                  } else {
+                      console.log(res.Msg);
+                  }
+              },
+              error: function (res) {
+                  console.log(res.Msg);
+              }
+          });
+        }
+        // if ($("[name='pagetype']").val() == "detail") {//初级详情页
+        //     setTimeout(function () {
+        //         var projClass = $("[name='firstProjClass']").val();
+        //         showTip({
+        //             "title": "订阅通知",
+        //             "content": "全面跟踪" + (projClass ? "“" + projClass + " ”类" : "") + "项目，不再错过最佳跟进时期",
+        //             "btnText": "免费订阅",
+        //             "btnClick": function () {
+        //                 _hmt.push(['_trackEvent', 'primaryToSubscribe', 'click', '初级底层订阅通知——去订阅']);
+        //                 window.location.href = "/PersonalService/CustomProjects.aspx?isShowEdit=true"
+        //             }
+        //         });
+        //     }, 5000);
+        // }
+    })
+</script>
+
+
+
+    
+    <link rel="stylesheet" type="text/css" href="//css.tgimg.cn/Project/V3/default.css?v=201903261750" />
+    <link rel="stylesheet" type="text/css" href="//css.tgimg.cn/Project/V3/primaryCommon.css?v=202012181520" />
+    <link rel="stylesheet" type="text/css" href="//css.tgimg.cn/Project/V4/headerCommon.css?v=202208051443" />
+    <link rel="stylesheet" type="text/css" href="//css.tgimg.cn/Project/V4/detail.css?v=202302281635" />
+    <link rel="stylesheet" type="text/css" href="//css.tgimg.cn/Common/idangerous.swiper.css" />
+    
+    <link rel="stylesheet" type="text/css" href="//css.tgimg.cn/Home/footer.css?v=202201181655" />
+    <script>
+        var TGVISITORID = "";
+        function initFingerprintJS() {
+            var fpPromise = FingerprintJS.load();
+            fpPromise.then(function (fp) { return fp.get() }).then(function (result) {
+                TGVISITORID = result.visitorId;
+            })
+        }
+    </script>
+    <script async src="//js.tgimg.cn/Common/fp.min.js?v=202105071759" type="text/javascript" charset="utf-8" onload="initFingerprintJS()"></script>
+    <script src="//js.tgimg.cn/Project/V4/newLoginCommon.js?v=202212271120" type="text/javascript" charset="gb2312"></script>
+    <script src="//js.tgimg.cn/Project/V4/headerCommon.js?v=202206301135" type="text/javascript" charset="gb2312"></script>
+    <script src="//js.tgimg.cn/Common/idangerous.swiper.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="//js.tgimg.cn//PrecisionProject/ajaxfileupload.js"></script>
+
+
+</head>
+<body>
+    
+
+
+<div style="display:flex;flex-direction:column-reverse;">
+    <div>
+        
+        <!-- #include file="~/common/Training.htm" -->
+        
+            <div class="swiper-container" id="banner">
+        <div class="swiper-wrapper"></div>
+        <div class="pagination"></div>
+    </div>
+    <div class="user-location js-user-location">
+        <span>您的位置： </span>
+        <a href="//www.tgnet.com/" title="天工网">天工网</a> >
+        <a href="//p.tgnet.com/" title="建设工程信息网">工程信息</a> >
+        <a href="//p.tgnet.com/1.2/2.1/0/" title="浙江省建设工程信息网">浙江省工程信息</a> &gt;
+            <a href="//p.tgnet.com/1.2.11/2.1/0/" title="杭州市建设工程信息网">杭州市工程信息</a>
+        &gt;
+        浙江杭州市萧政储出（2020）38号地块
+    </div>
+
+        <div class="detail-main js-detail-main">
+
+            
+
+
+
+<input type="hidden" name="pageType" value="初级信息底层页">
+<input type="hidden" name="pageTypeText" value="项目">
+<input type="hidden" name="pid" value="897714" />
+<input type="hidden" name="Images" value="0" />
+<input type="hidden" name="no" value="ZJHZXZ92" />
+<input type="hidden" name="areaNo" value="000100020011" />
+<input type="hidden" name="fistClassNo" value="0002000100050005" />
+<input type="hidden" name="isLogin" value="false" />
+
+<input type="hidden" name="isTrail" value="false" />
+<input type="hidden" name="isOverTwoMonth" value="false" />
+
+
+<input type="hidden" name="isGuangdongUser" value="false" />
+
+<input type="hidden" name="isUrg" value="false" />
+
+<input type="hidden" name="iaFav" value="false" />
+
+<input type="hidden" name="favClassId" value="0" />
+<input type="hidden" name="trackName" value="天工网" />
+
+<input type="hidden" name="trackQQ" value="800069339" />
+<input type="hidden" name="trackTel" value="020-66351168" />
+<input type="hidden" name="pagetype" value="prew" />
+
+<input type="hidden" name="isOver3MonthNoUpdated" value=" false" />
+
+<input type="hidden" name="firstProjClass" value="经济型酒店" />
+
+<input type="hidden" name="isFollow" value="false" />
+
+<input type="hidden" name="remainDaysOver270" value="false" />
+
+<input type="hidden" name="isSpider" value=".ToString().ToLower())" />
+<input type="hidden" id="AreaName" value="浙江省杭州市">
+<input type="hidden" id="Cost" value="11.88亿">
+<input type="hidden" id="InvestAmount" value="--">
+<input type="hidden" id="StageName" value="主体施工">
+<input type="hidden" id="OwnerType" value="商业">
+<input type="hidden" id="ClassNameLV2" value="经济型酒店、商业办公楼、社区服务">
+
+
+<!--主要内容-->
+<!--项目名名称-->
+
+<!--项目详情-->
+<div class="detailMain js-detailMain">
+
+    <h1 class="project-name">浙江杭州市萧政储出（2020）38号地块（杭州海威奥城置业有限公司）</h1>
+    <div class="nav js-nav">
+        <ul class="f-clear nav-btn js-nav-btn">
+            <li class="current" id="testProjectDetail">
+                <a href="javascript:;">项目详情</a>
+            </li>
+            <li id="testProjectProgress" data-type="progress">
+                <a href="javascript:;">项目进展</a>
+            </li>
+            <!--<li id="testBidding">
+                <a href="javascript:;">招采信息</a>
+            </li>-->
+            <li id="testProjectContacts" data-type="contact">
+                <a href="javascript:;">项目联系人(5)</a>
+            </li>
+            
+
+        </ul>
+        <ul class="f-clear function-btn">
+            
+            
+            <li class="down-btn" id="testDownPDF">
+                <a href="javascript:;">下载PDF</a>
+            </li>
+        <!--    <li class="print-btn" id="testDownWord">
+                <a href="javascript:;">打印</a>
+            </li> -->
+            <li class="collect-btn choose" id="testDownWord">
+                <a href="javascript:;">收藏</a>
+            </li>
+        </ul>
+    </div>
+    <!--项目概况-->
+    <div class="project-overview module-content module-nav">
+        <h2 class="module-title"><span class="module-title-ico"></span>项目概况<span class="project-num">工程编号：897714 </span></h2>
+        <table cellpadding="0" cellspacing="0">
+            <tbody>
+                <tr>
+                    <td class="module-name">工程地区</td>
+                    <td>
+                        
+                        <a href="//p.tgnet.com/1.2.11/2.1/0/" target="_blank" title="杭州市建设工程信息网">杭州市</a>
+                    </td>
+                    <td class="module-name">项目阶段</td>
+                    <td>
+                        
+                        2023-03-24审核时处于
+                        <a href="//p.tgnet.com/1.2/2.1/3/" target="_blank"  title="杭州市主体施工建设工程信息网">主体施工</a>阶段
+                    </td>
+                    <td class="module-name">更新时间</td>
+                    <td>2023-03-24（发布时间2023-03-24）</td>
+                </tr>
+                <tr>
+                    <td class="module-name">工程类别</td>
+                    <td>
+                        
+						<a href="javascript:;" class="look-detail-btn" data-type="工程类别">查看详情 >></a>
+
+                    </td>
+                    <td class="module-name">业主类型</td>
+                    <td>
+                        
+						<a href="javascript:;" class="look-detail-btn" data-type="业主类型">查看详情 >></a>
+                    </td>
+                    <td class="module-name">建筑性质</td>
+                    <td>
+						
+					    <a href="javascript:;" class="look-detail-btn" data-type="建筑性质">查看详情 >></a>
+					</td>
+					
+                </tr>
+                <tr>
+                    <td class="module-name">建筑规模</td>
+                    <td>
+                        
+						<a href="javascript:;" class="look-detail-btn" data-type="建筑规模">查看详情 >></a>
+                    </td>
+                    <td class="module-name">建筑层数</td>
+                    <td>
+						
+						<a href="javascript:;" class="look-detail-btn" data-type="建筑层数">查看详情 >></a>
+					</td>
+                    <td class="module-name">建设周期</td>
+                    <td>
+                        
+                        <a href="javascript:;" class="look-detail-btn" data-type="建设周期">查看详情 >></a>
+					</td>
+                </tr>
+                <tr>
+                    <td class="module-name">建筑面积</td>
+                    <td>
+                        
+                        <a href="javascript:;" class="look-detail-btn" data-type="建筑面积">查看详情 >></a>
+                    </td>
+                    <td class="module-name">投资金额</td>
+                    <td>
+                        
+
+                        <a href="javascript:;" class="look-detail-btn" data-type="投资金额">查看详情 >></a>
+                    </td>
+                    <td class="module-name">工程估价</td>
+                    <td>
+                        
+
+                        <a href="javascript:;" class="look-detail-btn" data-type="工程估价">查看详情 >></a>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="module-name">占地面积</td>
+                    <td>
+                        
+
+                        <a href="javascript:;" class="look-detail-btn" data-type="占地面积">查看详情 >></a>
+                    </td>
+                    <td class="module-name">项目地址</td>
+                    <td colspan="3">
+                        
+
+                        <a href="javascript:;" class="look-detail-btn" data-type="项目地址">查看详情 >></a>
+                    </td>
+                </tr>
+                <tr>
+                </tr>
+                <tr>
+                    <td class="module-name">项目简介</td>
+                    <td colspan="5" style="padding-right: 164px;position: relative;">
+                        <div style="min-height: 90px;">
+                            <span class="cover-contnet">
+                                <p><strong>浙江杭州市萧政储出（2020）38号地块</strong></p>信息由天工网专人生产：<a title='浙江杭州市萧政储出（2020）38号地块' href='https://p.tgnet.com/ZJHZXZ92/'>https://p.tgnet.com/ZJHZXZ92/</a><br><br>项目为总建筑面积约260574平方米，地下面积91264平方米，包含：<br/>◆ 3栋办公楼（29/32F）、1栋酒店（30F）、4栋酒店配套用房、三层地下室、道路、绿化等其他配套附属工程
+
+                                    <a href="javascript:;" class="look-detail-btn" data-type="项目简介">...查看详情 >></a>
+                            </span>
+
+
+                            <img style="position: absolute;right: 14px;top: 12px;" src="http://file.tgimg.cn/Image/Show?fid= Adv%2fImages%2f6204952%2f34926208444-f35312a3-d0b1-41ef-87a7-e5ae6e615e6a.png@136w_90h_1c" alt="浙江杭州市萧政储出（2020）38号地块现场图片" />
+                        </div>
+                    </td>
+
+                </tr>
+                <tr>
+                    <td class="module-name">可能用到的设备材料</td>
+                    <td colspan="5">
+                        <div class="datum materColor preview-materColor">电梯：有电梯<br/>外墙材料：其他外墙材料<br/>空调：有空调<br/><p class='possibleProductItem' style='margin-top:8px;'><span style='color:#555;font-weight:600;'>电气设备：</span>电力工程、电力安装、电力设备、变压器、电力变压器、干式变压器、压力变送器、高低压配电工程、高低压电气设备、高低压设备、高低压柜、高低压配电柜、配电柜、高压柜、高低压成套设备、高低压配电设备、配电设备、高压电器、低压电器、电器、高低压开关柜、高压开关柜、高低压开关、电气开关、双电源ATS、自动转换开关、配电箱、电表箱、电气、低压电气、断路器、低压断路器、电容、电容器、继电保护、浪涌保护器、逆变器、稳压器、互感器、过电压保护器、传感器、发电机、变频器、开关柜、仪器仪表、电气元件、元器件、无功补偿、无功补偿装置、双电源、电力仪表、多功能仪表、电气产品、智能电表、防雷器、箱变、箱式变电站、环网柜、直流屏、有源滤波器、柴油发电机、EPS电源、电机、柴油发电机组</p><br />......（因项目所需设备及材料种类繁多，未能一一列出，具体以项目实际情况核实为准）</div>
+                        <!--<a href="javascript:;" class="look-more-btn js-look-more-btn">展开</a>-->
+                        <a href="javascript:;" class="look-detail-btn" data-type="项目简介">查看详情 >></a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="look-project-contacts-btn">
+            <a class="look-detail-btn">查看项目联系人&nbsp;&nbsp;><span>></span></a>
+        </div>
+
+    </div>
+    <!--现场照片-->
+    <!--项目进展-->
+<input type="hidden" name="projNo" value="ZJHZXZ92" />
+<input type="hidden" name="isPreView" value="True" />
+<div class="project-progress module-content module-nav">
+    <h2 class="module-title js-module-title">
+        <span class="module-title-ico"></span>项目进展
+        <div class="operate-main">
+            <div class="filter-main js-filter-main">
+                <a href="javascript:;" class="filter-title js-control-filter" onclick="_hmt.push(['_trackEvent', 'projectProgressFilter', 'click','项目进展筛选'])"><span>全部动态</span><i></i></a>
+                <ul class="filter-list">
+                    <li class="current"><a href="javascript:;" class="list-item js-filter-item" data-kind="0">全部动态</a></li>
+                    <li><a href="javascript:;" class="list-item js-filter-item" data-kind="1">项目进展</a></li>
+                    <li><a href="javascript:;" class="list-item js-filter-item" data-kind="2">联系人更新</a></li>
+                    <li><a href="javascript:;" class="list-item js-filter-item" data-kind="3">招采信息</a></li>
+                </ul>
+            </div>
+            <a href="javascript:;" class="collect-btn js-notice-btn">
+              <span class="blue-label">新进展通知</span>
+              <span class="gray-label">新动态将通知你</span>
+            </a>
+        </div>
+    </h2>
+    <div class="project-progress-info js-project-progress" >
+        <div class="loading-main js-loading">
+            <div class="main-bg"></div>
+            <img src="//img.tgimg.cn/Home/loading.gif" alt="加载中...">
+        </div>
+        <ul class="module-main js-progress-ul">
+
+                    <li class="progress-li">
+                        <span class="project-time">2023-03-24</span>
+                        <div class="line"></div>
+                        <div class="spot"></div>
+                        <div class="module-info">
+                            <p>
+
+                                新增********
+                                    <a href="javascript:;" class="look-detail-btn" data-type="项目动态" id="testDetailBtn">查看详情 >></a>
+                            </p>
+                        </div>
+                    </li>
+        </ul>
+        <div class="show-all isShowAllBtn">
+            <a class="show-all-btn js-show-all-btn" href="javascript:;"><span class="show-all-text-btn" id="testShowAll">显示全部</span><span class="show-btn">（1）</span><i></i></a>
+            <!--<a href="javascript:;" class="notice-btn">有新进展通知我! >></a>-->
+        </div>
+    </div>
+
+    <div class="no-info js-no-project-progress" style=display:none>
+        <p>暂无相应的动态，您可以<a href="javascript:;" class="no-info-track">监控项目动态</a>，有更新立刻通知您！</p>
+    </div>
+</div>
+
+    <!--项目联系人-->
+    <div class="project-contacts module-content module-nav">
+        <h2 class="module-title js-module-title">
+          <span class="module-title-ico"></span>项目联系人
+          <div class="operate-main">
+            <a href="javascript:;" class="collect-btn js-notice-btn">
+              <span class="blue-label">  更新通知 </span>
+              <span class="gray-label">有更新将通知你</span>
+            </a>
+          </div>
+        </h2>
+
+<table>
+    <tbody>
+        <tr>
+            <th colspan="2"><span class="module-th">甲方</span></th>
+        </tr>
+                <tr id="1922018">
+                    <td class="module-name">
+                        发展商
+                    </td>
+                    <td class="isContactsView">
+                            <i class="update-ico"></i>
+                            <div class="update-time">2023-03-24更新了此项信息</div>
+
+                    <p class="company">
+                        单位：
+                            <a class="company-name js-company-name" title="杭州海威奥城置业有限公司" href="//p.tgnet.com/Company/Detail/7758105108280826529n1" target="_blank" data-companyid="22479280">杭州海威奥城置业有限公司</a>
+                        <!--<i></i><span class="look-company-info">查看企业资料</span>-->
+                            <a href="/Company/Detail/7758105108280826529n1" data-companyNum="1" data-companyContacts="1" data-companyid="22479280" target="_blank" class="blue-label js-blue-label">近期在做1个项目,收录1个联系人 ></a>
+                    </p>
+                        <p class="userName">
+                            姓名：<span class="js-user-name">金**</span>
+                                <a href="javascript:;" class="look-content-detail-btn" data-type="联系人电话" id="testPeople">查看联系人 >></a>
+                        </p>
+                                                    <p>
+                                电话：
+                                    <span class="js-user-tel">05***********</span>
+                                    <a href="javascript:;" class="look-content-detail-btn" data-type="联系人电话">查看电话 >></a>
+                            </p>
+                        <p class="address-info">地址：浙江省杭州市****</p>
+                        <div class="human-radar-main">
+                            <div style="cursor: pointer; display: inline-block;" data-id="897714" class="js-show-radar-pop" onclick="_hmt.push(['_trackEvent', 'openRadar', 'click','打开雷达'])">
+                                <div class="head-wrap f-clear js-member-header-main">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                                人脉雷达：挖掘有关系的人脉>><a href="javascript:;" class="btn">打开雷达</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+</table>
+
+
+<table>
+    <tbody>
+        <tr>
+            <th colspan="2"><span class="module-th">设计院</span></th>
+        </tr>
+                <tr id="1922019">
+                    <td class="module-name">
+                        设计院
+                    </td>
+                    <td class="isContactsView">
+                            <i class="update-ico"></i>
+                            <div class="update-time">2023-03-24更新了此项信息</div>
+
+                    <p class="company">
+                        单位：
+中国********                        <!--<i></i><span class="look-company-info">查看企业资料</span>-->
+                    </p>
+                        <p class="userName">
+                            姓名：<span class="js-user-name">刘**</span>
+                                <a href="javascript:;" class="look-content-detail-btn" data-type="联系人电话" id="testPeople">查看联系人 >></a>
+                        </p>
+                            <p>
+                                手机：
+                                    <span class="js-user-phone">13*********</span>
+                                    <a href="javascript:;" class="look-content-detail-btn" data-type="联系人电话" id="testlookPhone">查看手机 >></a>
+                            </p>
+                                                <p class="address-info">地址：浙江省杭州市****</p>
+                        <div class="human-radar-main">
+                            <div style="cursor: pointer; display: inline-block;" data-id="897714" class="js-show-radar-pop" onclick="_hmt.push(['_trackEvent', 'openRadar', 'click','打开雷达'])">
+                                <div class="head-wrap f-clear js-member-header-main">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                                人脉雷达：挖掘有关系的人脉>><a href="javascript:;" class="btn">打开雷达</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr id="1884309">
+                    <td class="module-name">
+                        勘察单位
+                    </td>
+                    <td class="isContactsView">
+                            <i class="update-ico"></i>
+                            <div class="update-time">2023-03-24更新了此项信息</div>
+
+                    <p class="company">
+                        单位：
+浙江**************                        <!--<i></i><span class="look-company-info">查看企业资料</span>-->
+                    </p>
+                        <p class="userName">
+                            姓名：<span class="js-user-name">陈**</span>
+                                <a href="javascript:;" class="look-content-detail-btn" data-type="联系人电话" id="testPeople">查看联系人 >></a>
+                        </p>
+                            <p>
+                                手机：
+                                    <span class="js-user-phone">13*********</span>
+                                    <a href="javascript:;" class="look-content-detail-btn" data-type="联系人电话" id="testlookPhone">查看手机 >></a>
+                            </p>
+                                                <p class="address-info">地址：浙江省宁波市****</p>
+                        <div class="human-radar-main">
+                            <div style="cursor: pointer; display: inline-block;" data-id="897714" class="js-show-radar-pop" onclick="_hmt.push(['_trackEvent', 'openRadar', 'click','打开雷达'])">
+                                <div class="head-wrap f-clear js-member-header-main">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                                人脉雷达：挖掘有关系的人脉>><a href="javascript:;" class="btn">打开雷达</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            </tbody>
+</table>
+
+
+<table>
+    <tbody>
+        <tr>
+            <th colspan="2"><span class="module-th">施工方</span></th>
+        </tr>
+                <tr id="1922021">
+                    <td class="module-name">
+                        监理单位
+                    </td>
+                    <td class="isContactsView">
+                            <i class="update-ico"></i>
+                            <div class="update-time">2023-03-24更新了此项信息</div>
+
+                    <p class="company">
+                        单位：
+德邻********                        <!--<i></i><span class="look-company-info">查看企业资料</span>-->
+                    </p>
+                        <p class="userName">
+                            姓名：<span class="js-user-name">陈**</span>
+                                <a href="javascript:;" class="look-content-detail-btn" data-type="联系人电话" id="testPeople">查看联系人 >></a>
+                        </p>
+                            <p>
+                                手机：
+                                    <span class="js-user-phone">13*********</span>
+                                    <a href="javascript:;" class="look-content-detail-btn" data-type="联系人电话" id="testlookPhone">查看手机 >></a>
+                            </p>
+                                                <p class="address-info">地址：浙江省杭州市****</p>
+                        <div class="human-radar-main">
+                            <div style="cursor: pointer; display: inline-block;" data-id="897714" class="js-show-radar-pop" onclick="_hmt.push(['_trackEvent', 'openRadar', 'click','打开雷达'])">
+                                <div class="head-wrap f-clear js-member-header-main">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                                人脉雷达：挖掘有关系的人脉>><a href="javascript:;" class="btn">打开雷达</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr id="1922020">
+                    <td class="module-name">
+                        总承建商
+                    </td>
+                    <td class="isContactsView">
+                            <i class="update-ico"></i>
+                            <div class="update-time">2023-03-24更新了此项信息</div>
+
+                    <p class="company">
+                        单位：
+浙江********                        <!--<i></i><span class="look-company-info">查看企业资料</span>-->
+                    </p>
+                        <p class="userName">
+                            姓名：<span class="js-user-name">王**</span>
+                                <a href="javascript:;" class="look-content-detail-btn" data-type="联系人电话" id="testPeople">查看联系人 >></a>
+                        </p>
+                            <p>
+                                手机：
+                                    <span class="js-user-phone">13*********</span>
+                                    <a href="javascript:;" class="look-content-detail-btn" data-type="联系人电话" id="testlookPhone">查看手机 >></a>
+                            </p>
+                                                <p class="address-info">地址：浙江省杭州市****</p>
+                        <div class="human-radar-main">
+                            <div style="cursor: pointer; display: inline-block;" data-id="897714" class="js-show-radar-pop" onclick="_hmt.push(['_trackEvent', 'openRadar', 'click','打开雷达'])">
+                                <div class="head-wrap f-clear js-member-header-main">
+                                    <span></span>
+                                    <span></span>
+                                    <span></span>
+                                </div>
+                                人脉雷达：挖掘有关系的人脉>><a href="javascript:;" class="btn">打开雷达</a>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                    <!--<tr>
+                <td class="key-person" colspan="2">
+                    <img class="key-person" src="//img.tgimg.cn/Project/newJuniorDetail/new-key-person-ico.png" alt="天工网">
+                    <a href="//m.p.tgnet.com/ProjectQuery/Edit?projID=<%=ProjId%>" target="_blank" class="btn-40-shadow">立即查询</a>
+                </td>
+            </tr>-->
+    </tbody>
+</table>
+
+        <!-- 未登录 -->
+        <!--<div class="no-login-module" style="<%=Model.DetailModel.IsLogin?"display:none;":""%>">
+          <div class="module-title">登录获取更多内容</div>
+          <div class="btn-wrap">
+            <a href="javascript:;" class="left-btn js-login-btn" onclick="_hmt.push(['_trackEvent', 'goLogin', 'click','初级工程信息详情——立即登录'])">立即登录</a>
+            <a href="javascript:;" class="right-btn js-register-btn"  onclick="_hmt.push(['_trackEvent', 'goRegister', 'click','初级工程信息详情——立即注册'])">还不是会员？30s立即注册</a>
+          </div>
+          <div class="contact-con">咨询此项目热线：020-66351168</div>
+        </div>-->
+    </div>
+    <!--相关项目-->
+    
+
+
+    <!--天工网分站-->
+    <div class="TG-substation">
+        <div class="TG-substation-title"><i></i>天工网分站</div>
+        <ul class="f-clear">
+            <li class="width-36">
+                <span>华东：</span>
+                <a href="//p.tgnet.com/1.12/2.1/0/" title="上海建设工程信息网">上海</a>
+                <a href="//p.tgnet.com/1.18/2.1/0/" title="江苏建设工程信息网">江苏</a>
+                <a href="//p.tgnet.com/1.2/2.1/0/" title="浙江建设工程信息网">浙江</a>
+                <a href="//p.tgnet.com/1.31/2.1/0/" title="安徽建设工程信息网">安徽</a>
+                <a href="//p.tgnet.com/1.29/2.1/0/" title="福建建设工程信息网">福建</a>
+                <a href="//p.tgnet.com/1.9/2.1/0/" title="山东建设工程信息网">山东</a>
+            </li>
+            <li class="width-33">
+                <span>华北：</span>
+                <a href="//p.tgnet.com/1.30/2.1/0/" title="北京建设工程信息网">北京</a>
+                <a href="//p.tgnet.com/1.6/2.1/0/" title="天津建设工程信息网">天津</a>
+                <a href="//p.tgnet.com/1.24/2.1/0/" title="河北建设工程信息网">河北</a>
+                <a href="//p.tgnet.com/1.10/2.1/0/" title="山西建设工程信息网">山西</a>
+                <a href="//p.tgnet.com/1.15/2.1/0/" title="内蒙古建设工程信息网">内蒙古</a>
+            </li>
+            <li>
+                <span>西南：</span>
+                <a href="//p.tgnet.com/1.5/2.1/0/" title="重庆建设工程信息网">重庆</a>
+                <a href="//p.tgnet.com/1.7/2.1/0/" title="四川建设工程信息网">四川</a>
+                <a href="//p.tgnet.com/1.26/2.1/0/" title="贵州建设工程信息网">贵州</a>
+                <a href="//p.tgnet.com/1.1/2.1/0/" title="云南建设工程信息网">云南</a>
+                <a href="//p.tgnet.com/1.4/2.1/0/" title="西藏建设工程信息网">西藏</a>
+            </li>
+            <li class="width-36">
+                <span>东北：</span>
+                <a href="//p.tgnet.com/1.22/2.1/0/" title="黑龙江建设工程信息网">黑龙江</a>
+                <a href="//p.tgnet.com/1.16/2.1/0/" title="辽宁建设工程信息网">辽宁</a>
+                <a href="//p.tgnet.com/1.19/2.1/0/" title="吉林建设工程信息网">吉林</a>
+            </li>
+            <li class="width-33">
+                <span>西北：</span>
+                <a href="//p.tgnet.com/1.8/2.1/0/" title="陕西建设工程信息网">陕西</a>
+                <a href="//p.tgnet.com/1.28/2.1/0/" title="甘肃建设工程信息网">甘肃</a>
+                <a href="//p.tgnet.com/1.13/2.1/0/" title="青海建设工程信息网">青海</a>
+                <a href="//p.tgnet.com/1.14/2.1/0/" title="宁夏建设工程信息网">宁夏</a>
+                <a href="//p.tgnet.com/1.3/2.1/0/" title="新疆建设工程信息网">新疆</a>
+            </li>
+            <li class="width-31">
+                <span>华中：</span>
+                <a href="//p.tgnet.com/1.23/2.1/0/" title="河南建设工程信息网">河南</a>
+                <a href="//p.tgnet.com/1.21/2.1/0/" title="湖北建设工程信息网">湖北</a>
+                <a href="//p.tgnet.com/1.20/2.1/0/" title="湖南建设工程信息网">湖南</a>
+                <a href="//p.tgnet.com/1.17/2.1/0/" title="江西建设工程信息网">江西</a>
+            </li>
+            <li class="width-36">
+                <span>华南：</span>
+                <a href="//p.tgnet.com/1.11/2.1/0/" title="广东建设工程信息网">广东</a>
+                <a href="//p.tgnet.com/1.27/2.1/0/" title="广西建设工程信息网">广西</a>
+                <a href="//p.tgnet.com/1.25/2.1/0/" title="海南建设工程信息网">海南</a>
+            </li>
+        </ul>
+    </div>
+
+
+    
+    <div class="pop-main activity-pop js-activity-pop" style="width: 605px;">
+        <a href="javascript:;" class="close-icon"></a>
+        <a class="activity-pop-link js-activity-pop-link" href="http://club.tgnet.com/Act/2762/" target="_blank" rel="nofollow">
+            <img class="activity-img" src="//img.tgimg.cn/Project/newJuniorDetail/activityAD.jpg" alt="天工网" />
+        </a>
+    </div>
+
+</div>
+
+
+
+            <!--右侧内容-->
+            <div class="right-contnet">
+                <!--广告位-->
+                <div id="rightNav-advert" class="rightNav-advert">
+                  <div class="swiper-container">
+                      <div class="js-advert-main swiper-wrapper"></div>
+                    </div>
+                </div>
+                    <div class="hot-main js-hot-main">
+                        <div class="hot-title"><i></i>看过该项目的人也看过</div>
+                        <ul class="look-project">
+
+                                <li>
+                                    <a href="/ZJHZSD12/" title="三墩单元XH0306-M1-62地块新制造业项目" target="_blank"><span>50%</span>三墩单元XH0306-M1-62地块新制造业项目</a>
+                                </li>
+                                <li>
+                                    <a href="/ZJTPYN/" title="浙江托普云农科技股份有限公司杭政工出（2018）13号地块创新型产业用房（浙江杭州市）" target="_blank"><span>50%</span>浙江托普云农科技股份有限公司杭政工出（2018）13号地块创新型产业用房（浙江杭州市）</a>
+                                </li>
+                                <li>
+                                    <a href="/TXZYYY2/" title="中医医院迁建工程（浙江桐乡市）" target="_blank"><span>50%</span>中医医院迁建工程（浙江桐乡市）</a>
+                                </li>
+                                <li>
+                                    <a href="/ZJJHJH2/" title="金华理工学院项目（浙江金华市）" target="_blank"><span>50%</span>金华理工学院项目（浙江金华市）</a>
+                                </li>
+                                <li>
+                                    <a href="/ZJZZCS13/" title="慢城文化旅游博览中心项目" target="_blank"><span>50%</span>慢城文化旅游博览中心项目</a>
+                                </li>
+                                <li>
+                                    <a href="/ZJJXXZ26/" title="秀洲区妇幼保健院迁建项目（浙江嘉兴市）" target="_blank"><span>50%</span>秀洲区妇幼保健院迁建项目（浙江嘉兴市）</a>
+                                </li>
+                                <li>
+                                    <a href="/DYFYBJ4/" title="妇幼保健院妇产中心大楼项目（浙江东阳市）" target="_blank"><span>50%</span>妇幼保健院妇产中心大楼项目（浙江东阳市）</a>
+                                </li>
+                                <li>
+                                    <a href="/ZJZZFY2/" title="第二人民医院）及疾控中心异地新建工程" target="_blank"><span>50%</span>第二人民医院）及疾控中心异地新建工程</a>
+                                </li>
+                                <li>
+                                    <a href="/ZJJXNH23/" title="南湖区公共卫生中心及人民医院建设项目" target="_blank"><span>50%</span>南湖区公共卫生中心及人民医院建设项目</a>
+                                </li>
+                                <li>
+                                    <a href="/ZJZLYY4/" title="肿瘤医院科教大楼项目（浙江杭州市）" target="_blank"><span>50%</span>肿瘤医院科教大楼项目（浙江杭州市）</a>
+                                </li>
+                        </ul>
+                    </div>
+                <input id="PopularPartyACompanyViewModel" value="{&quot;Type&quot;:4,&quot;ItemType&quot;:2,&quot;Items&quot;:[{&quot;No&quot;:&quot;49468755600987468n1&quot;,&quot;Name&quot;:&quot;东阳市城市建设投资集团有限公司&quot;},{&quot;No&quot;:&quot;49468910917487468n1&quot;,&quot;Name&quot;:&quot;杭州西湖城市建设投资集团有限公司&quot;},{&quot;No&quot;:&quot;49469073834687468n1&quot;,&quot;Name&quot;:&quot;安吉七彩灵峰乡村旅游投资有限公司&quot;},{&quot;No&quot;:&quot;49469109848487468n1&quot;,&quot;Name&quot;:&quot;宁波市北仑区公共项目建设管理中心&quot;},{&quot;No&quot;:&quot;49469126166087468n1&quot;,&quot;Name&quot;:&quot;安吉县教育局&quot;},{&quot;No&quot;:&quot;49469134226487468n1&quot;,&quot;Name&quot;:&quot;杭州市萧山区教育局&quot;},{&quot;No&quot;:&quot;494610096497687468n1&quot;,&quot;Name&quot;:&quot;慈溪市住房发展投资有限公司&quot;},{&quot;No&quot;:&quot;494610160878387468n1&quot;,&quot;Name&quot;:&quot;丽水开发区城市建设投资有限公司&quot;},{&quot;No&quot;:&quot;494610403240387468n1&quot;,&quot;Name&quot;:&quot;浙江新北园区开发集团有限公司&quot;},{&quot;No&quot;:&quot;494610854396887468n1&quot;,&quot;Name&quot;:&quot;杭州临平城市建设集团有限公司&quot;}],&quot;AreaName&quot;:&quot;浙江省&quot;,&quot;AreaNo&quot;:&quot;00010002&quot;,&quot;OpenNewTab&quot;:true,&quot;ShowMoreLink&quot;:false}" type="hidden" />
+                <!--工程热搜-->
+                
+
+
+                <!--热门项目-->
+
+
+<div class="hot-main js-hot-main">
+    <div class="hot-title has-more-btn js-hot-project-list">
+        <i></i>浙江省热门项目
+            <a href="//p.tgnet.com/1.2/2.1/0/" target=_blank
+               class="js-detail-more-hot"
+               title="浙江省建设工程信息网"
+               >更多</a>
+    </div>
+    <ul class="look-project">
+
+            <li>
+                <a class="highlight-ff6700 js-detail-hot-project" href="//p.tgnet.com/TXZYYY2/" title="中医医院迁建工程（浙江桐乡市）建设工程信息网" target="_blank">中医医院迁建工程（浙江桐乡市）</a>
+            </li>
+            <li>
+                <a class="highlight-ff6700 js-detail-hot-project" href="//p.tgnet.com/ZJZLYY4/" title="肿瘤医院科教大楼项目（浙江杭州市）建设工程信息网" target="_blank">肿瘤医院科教大楼项目（浙江杭州市）</a>
+            </li>
+            <li>
+                <a class="highlight-ff6700 js-detail-hot-project" href="//p.tgnet.com/ZJDXHZ2/" title="浙江大学杭州国际科创中心项目一期（杭州萧山国际科创中心开发有限公司）建设工程信息网" target="_blank">浙江大学杭州国际科创中心项目一期（杭州萧山国际科创中心开发有限公司）</a>
+            </li>
+            <li>
+                <a class=" js-detail-hot-project" href="//p.tgnet.com/ZJHZGJ13/" title="国际博览中心二期项目（萧政储出（2020）8号）地块（BIM）（杭州萧山钱江世纪城开发建设有限责任公司）建设工程信息网" target="_blank">国际博览中心二期项目（萧政储出（2020）8号）地块（BIM）（杭州萧山钱江世纪城开发建设有限责任公司）</a>
+            </li>
+            <li>
+                <a class=" js-detail-hot-project" href="//p.tgnet.com/ZJNBGJ15/" title="浙江宁波国际会议中心项目（含酒店）（宁波国际会议中心发展有限公司）建设工程信息网" target="_blank">浙江宁波国际会议中心项目（含酒店）（宁波国际会议中心发展有限公司）</a>
+            </li>
+            <li>
+                <a class=" js-detail-hot-project" href="//p.tgnet.com/ZJHZDH9/" title="大会展中心一期主工程（杭州大会展中心建设运营有限公司）建设工程信息网" target="_blank">大会展中心一期主工程（杭州大会展中心建设运营有限公司）</a>
+            </li>
+            <li>
+                <a class=" js-detail-hot-project" href="//p.tgnet.com/SXFYBJ2/" title="妇幼保健院(绍兴市儿童医院)建设项目（浙江绍兴市）（绍兴市交通建设有限公司）建设工程信息网" target="_blank">妇幼保健院(绍兴市儿童医院)建设项目（浙江绍兴市）（绍兴市交通建设有限公司）</a>
+            </li>
+            <li>
+                <a class=" js-detail-hot-project" href="//p.tgnet.com/HZDTWL0/" title="地铁武林广场站上盖综合体--星级暂未定（杭政储出【2011】43号地块商业金融业用房项目）（杭州地铁武林置业有限公司）建设工程信息网" target="_blank">地铁武林广场站上盖综合体--星级暂未定（杭政储出【2011】43号地块商业金融业用房项目）（杭州地铁武林置业有限公司）</a>
+            </li>
+            <li>
+                <a class=" js-detail-hot-project" href="//p.tgnet.com/ZJHZGJ6/" title="浙江杭州国际中心项目（原：杭政储出（2016）20号）（杭州鲁能城置业有限公司）建设工程信息网" target="_blank">浙江杭州国际中心项目（原：杭政储出（2016）20号）（杭州鲁能城置业有限公司）</a>
+            </li>
+            <li>
+                <a class=" js-detail-hot-project" href="//p.tgnet.com/ZJLSDY1/" title="第一人民医院项目（丽水市人民医院）建设工程信息网" target="_blank">第一人民医院项目（丽水市人民医院）</a>
+            </li>
+    </ul>
+</div>
+
+                <!--热门甲方-->
+
+
+<div class="hot-main js-hot-main">
+    <div class="hot-title has-more-btn js-hot-project-list">
+        <i></i>浙江省热门甲方
+            <a href="//p.tgnet.com/Company/List/1.2/1/1/" target=_blank title="浙江省甲方企业资料库">更多</a>
+    </div>
+    <ul class="look-project">
+
+            <li>
+                <a class="highlight-ff6700 " href="//p.tgnet.com/Company/Detail/49468755600987468n1" title="东阳市城市建设投资集团有限公司项目参与情况" target="_blank">东阳市城市建设投资集团有限公司</a>
+            </li>
+            <li>
+                <a class="highlight-ff6700 " href="//p.tgnet.com/Company/Detail/49468910917487468n1" title="杭州西湖城市建设投资集团有限公司项目参与情况" target="_blank">杭州西湖城市建设投资集团有限公司</a>
+            </li>
+            <li>
+                <a class="highlight-ff6700 " href="//p.tgnet.com/Company/Detail/49469073834687468n1" title="安吉七彩灵峰乡村旅游投资有限公司项目参与情况" target="_blank">安吉七彩灵峰乡村旅游投资有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/49469109848487468n1" title="宁波市北仑区公共项目建设管理中心项目参与情况" target="_blank">宁波市北仑区公共项目建设管理中心</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/49469126166087468n1" title="安吉县教育局项目参与情况" target="_blank">安吉县教育局</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/49469134226487468n1" title="杭州市萧山区教育局项目参与情况" target="_blank">杭州市萧山区教育局</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/494610096497687468n1" title="慈溪市住房发展投资有限公司项目参与情况" target="_blank">慈溪市住房发展投资有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/494610160878387468n1" title="丽水开发区城市建设投资有限公司项目参与情况" target="_blank">丽水开发区城市建设投资有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/494610403240387468n1" title="浙江新北园区开发集团有限公司项目参与情况" target="_blank">浙江新北园区开发集团有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/494610854396887468n1" title="杭州临平城市建设集团有限公司项目参与情况" target="_blank">杭州临平城市建设集团有限公司</a>
+            </li>
+    </ul>
+</div>
+
+                <!--热门设计院-->
+
+
+<div class="hot-main js-hot-main">
+    <div class="hot-title has-more-btn js-hot-project-list">
+        <i></i>浙江省热门设计院
+            <a href="//p.tgnet.com/Company/List/1.2/2/1/" target=_blank title="浙江省设计院企业资料库">更多</a>
+    </div>
+    <ul class="look-project">
+
+            <li>
+                <a class="highlight-ff6700 " href="//p.tgnet.com/Company/Detail/25765738114657387376n1" title="浙江化工工程地质勘察院有限公司项目参与情况" target="_blank">浙江化工工程地质勘察院有限公司</a>
+            </li>
+            <li>
+                <a class="highlight-ff6700 " href="//p.tgnet.com/Company/Detail/25765740544057387376n1" title="中煤浙江勘测设计有限公司项目参与情况" target="_blank">中煤浙江勘测设计有限公司</a>
+            </li>
+            <li>
+                <a class="highlight-ff6700 " href="//p.tgnet.com/Company/Detail/25765888749157387376n1" title="宁波华东核工业工程勘察院项目参与情况" target="_blank">宁波华东核工业工程勘察院</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/25765899290057387376n1" title="华汇工程设计集团股份有限公司项目参与情况" target="_blank">华汇工程设计集团股份有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/25766011343157387376n1" title="浙江城建勘察研究院有限公司项目参与情况" target="_blank">浙江城建勘察研究院有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/25766456530257387376n1" title="浙江省浙南综合工程勘察测绘院有限公司项目参与情况" target="_blank">浙江省浙南综合工程勘察测绘院有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/25766591534257387376n1" title="浙江有色勘测规划设计有限公司项目参与情况" target="_blank">浙江有色勘测规划设计有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/25766771079457387376n1" title="核工业金华勘测设计院有限公司项目参与情况" target="_blank">核工业金华勘测设计院有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/25767227821757387376n1" title="浙江恒欣设计集团股份有限公司项目参与情况" target="_blank">浙江恒欣设计集团股份有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/25767258996657387376n1" title="浙江大华勘察设计有限公司项目参与情况" target="_blank">浙江大华勘察设计有限公司</a>
+            </li>
+    </ul>
+</div>
+
+                <!--热门施工方-->
+
+
+<div class="hot-main js-hot-main">
+    <div class="hot-title has-more-btn js-hot-project-list">
+        <i></i>浙江省热门施工方
+            <a href="//p.tgnet.com/Company/List/1.2/3/1/" target=_blank title="浙江省施工方企业资料库">更多</a>
+    </div>
+    <ul class="look-project">
+
+            <li>
+                <a class="highlight-ff6700 " href="//p.tgnet.com/Company/Detail/795169075569690555n1" title="中国建筑第八工程局有限公司；项目参与情况" target="_blank">中国建筑第八工程局有限公司；</a>
+            </li>
+            <li>
+                <a class="highlight-ff6700 " href="//p.tgnet.com/Company/Detail/795169117443690555n1" title="宁波建工工程集团有限公司项目参与情况" target="_blank">宁波建工工程集团有限公司</a>
+            </li>
+            <li>
+                <a class="highlight-ff6700 " href="//p.tgnet.com/Company/Detail/795169158714690555n1" title="浙江省一建建设集团有限公司项目参与情况" target="_blank">浙江省一建建设集团有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/795169173954690555n1" title="浙江省二建建设集团有限公司项目参与情况" target="_blank">浙江省二建建设集团有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/795169195797690555n1" title="浙江恒力建设有限公司项目参与情况" target="_blank">浙江恒力建设有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/795169198551690555n1" title="浙江鸿翔建设集团股份有限公司项目参与情况" target="_blank">浙江鸿翔建设集团股份有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/795169200472690555n1" title="浙江省建工集团有限责任公司项目参与情况" target="_blank">浙江省建工集团有限责任公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/795169256440690555n1" title="浙江新中源建设有限公司项目参与情况" target="_blank">浙江新中源建设有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/795170905999690555n1" title="方远建设集团股份有限公司项目参与情况" target="_blank">方远建设集团股份有限公司</a>
+            </li>
+            <li>
+                <a class=" " href="//p.tgnet.com/Company/Detail/795170917047690555n1" title="浙江省长城建设集团股份有限公司项目参与情况" target="_blank">浙江省长城建设集团股份有限公司</a>
+            </li>
+    </ul>
+</div>
+
+
+            </div>
+        </div>
+    </div>
+<!--头部-->
+<input type="hidden" name="isLogin" value="false" />
+<input type="hidden" name="isExpired" value="true" />
+<input type="hidden" name="ip" value="65.75.194.132, 100.121.118.196" />
+<input type="hidden" name="userid" value="0" />
+<input type="hidden" name="qqNum" value="1641821860" />
+<input type="hidden" name="userName" value="" />
+
+<input type="hidden" id="isspider" name='isspider' value="false" />
+<input type="hidden" id="CustomerName" value="天工网" />
+<input type="hidden" id="CustomerQQ" value="800069339" />
+<input type="hidden" id="CustomerTel" value="020-66351168（微信：18988919586）" />
+<div>
+    <div class="header js-header">
+        
+        <div class="header-main">
+            <a href="//www.tgnet.com" target="_blank" style="display:inline-block;float:left;">
+                <img class="TG-logo" src="//img.tgimg.cn/Project/newJuniorDetail/logo.png" alt="天工网" />
+            </a>
+            <ul class="header-menu f-clear">
+                <li class="header-type">
+                    <div class="project-type project">工程</div>
+                    <div class="project-type-frame">
+                        <i class="arrow-ico"></i>
+                        <ul class="projType">
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1/0/" title="全部工程建设工程信息网" target="_blank">全部工程</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.17/0/" title="污水处理建设工程信息网" target="_blank">污水处理</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.6/0/" title="工业建筑建设工程信息网" target="_blank">工业建筑</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.1/0/" title="住宅社区建设工程信息网" target="_blank">住宅社区</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.5/0/" title="酒店服务建设工程信息网" target="_blank">酒店服务</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.9/0/" title="商业综合建设工程信息网" target="_blank">商业综合</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.10/0/" title="行政办公建设工程信息网" target="_blank">行政办公</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.4/0/" title="卫生医疗建设工程信息网" target="_blank">卫生医疗</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.2/0/" title="文化教育建设工程信息网" target="_blank">文化教育</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.3/0/" title="展览观演建设工程信息网" target="_blank">展览观演</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.8/0/"  title="园林景观建设工程信息网" target="_blank">园林景观</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.7/0/"  title="市政道路建设工程信息网" target="_blank">市政道路</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.13/0/"  title="交通运输建设工程信息网" target="_blank">交通运输</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.14/0/"  title="公用建筑建设工程信息网" target="_blank">公用建筑</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.12/0/"  title="环保节能建设工程信息网" target="_blank">环保节能</a>
+                            </li>
+                            <li>
+                                <a href="//p.tgnet.com/1/2.1.11/0/"  title="农业水利建设工程信息网" target="_blank">农业水利</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+                <li class="header-type">
+                    <div class="project-type purchase">采购</div>
+                    <div class="project-type-frame">
+                        <i class="arrow-ico"></i>
+                        <ul class="purchase-type">
+                            <li>
+                                <a href="//bid.tgnet.com?type=0" target="_blank" rel="nofollow">招标公告</a>
+                            </li>
+                            <li>
+                                <a href="//bid.tgnet.com?type=2" target="_blank" rel="nofollow">中标公告</a>
+                            </li>
+                            <li style="display: none;">
+                                <a href="http://p.tgnet.com/PersonalService/Material/List.aspx" target="_blank" rel="nofollow">甲方寻材</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </li>
+                <li class="header-type">
+                    <div class="project-type network-cooperation">人脉合作</div>
+                    <div class="project-type-frame">
+                        <i class="arrow-ico"></i>
+                        <ul class="network-cooperation-type">
+                            <li>
+                                <a href="http://club.tgnet.com/" target="_blank" rel="nofollow">同城活动</a>
+                            </li>
+                            <li>
+                                <a href="http://m.club.tgnet.com/act/WeixinQuan" target="_blank" rel="nofollow">业务微信群</a>
+                            </li>
+                            <li>
+                                <a href="http://m6.p.tgnet.com/Supplier/SeachSuppliers" target="_blank" rel="nofollow">优质供应商</a>
+                            </li>
+                            <li>
+                                <a href="http://agent.tgnet.com/" target="_blank" rel="nofollow">招商创业</a>
+                            </li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+
+            <div class="search-main">
+                <div class="search-type js-search-type">
+                    <span class="chooseType">工程信息</span>
+                    <ul class="search-project-type js-search-project-type">
+
+                        <li class="active">
+                            <a href="javascript:;" data-type="project">工程信息</a>
+                        </li>
+                        <li class="">
+                            <a href="javascript:;" data-type="bidding">招采信息</a>
+                        </li>
+                        <li>
+                            <a href="javascript:;" data-type="designer">设计师</a>
+                        </li>
+                        <li class="">
+                            <a href="javascript:;">企业</a>
+                        </li>
+                    </ul>
+                </div>
+                <span class="line"></span>
+                <div class="search-kw-main js-search-kw-main">
+                    <input type="password" autocomplete="off" style="display: none;" />
+                    <label class="recommend-first-project js-recommend-first-project"></label>
+                    <input class="search-kw js-search-kw" id="testSearchKw" type="text" name="kw" value="" placeholder="请输入项目关键词" autocomplete="off" />
+                    <ul class="recommend-project js-recommend-project"></ul>
+                </div>
+            </div>
+            <div class="search-btn js-search-btn" id="testSearchbtn"></div>
+            <ul class="service-menu f-clear js-service-menu">
+                    <li class="header-login">
+                        <a class="service-menu-btn login-btn" href="javascript:;">登录 / 注册</a>
+                    </li>
+                    <li class="buy-service js-buy-service">
+                        <a class="buy-service-btn js-jump-pay" href="javascript:;" id="testBuService">会员服务</a>
+                        <span class="service-menu-line"></span>
+                    </li>
+                                    <li class="customer-service js-customer-service">
+                        <a class="service-menu-btn service-btn js-service-btn" href="javascript:;">咨询客服</a>
+                        <span class="service-menu-line"></span>
+                        <div class="service-pop js-service-pop">
+                            <i class="arrow-ico"></i>
+                            <div class="customer-service-pop js-customer-service-pop">
+                                <p>专属客服（天工网）</p>
+                                <a href="tel:020-66351168（微信：18988919586）" class="customer-phone">020-66351168（微信：18988919586）</a>
+                            </div>
+                        </div>
+                    </li>
+                <li class="down-app">
+                        <a class="down-app-btn js-down-app-btn" href="https://p.tgnet.com/Project/AppDownload.aspx" target="_blank" title="下载工程帮APP">下载工程帮APP</a>
+                        <span class="service-menu-line"></span>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<!-- #include file="~/common/guojie.htm" -->
+
+<style>
+    /*公告样式*/
+    .popup1 {
+        border: 1px solid #FF8839;
+        padding: 1px;
+        background: #FFF8EC;
+        width: 360px;
+    }
+
+        .popup1 .title {
+            background: #FF8839;
+            color: #fff;
+            font-weight: bold;
+            position: relative;
+            height: 28px;
+            line-height: 28px;
+            padding: 0 0 0 13px;
+        }
+
+            .popup1 .title .btn_close {
+                background: url(//img.tgimg.cn/project/v2/bg/bg_close.gif) no-repeat;
+                width: 14px;
+                height: 14px;
+                cursor: pointer;
+                overflow: hidden;
+                position: absolute;
+                right: 6px;
+                top: 6px;
+            }
+</style>
+<div class="pt40 js-notice" style="display:none;text-align:center;background:#fffee5;color:#f00;font-size: 14px; line-height:30px;font-weight:bold;border-bottom:1px #c1c1c1 solid">
+    放假通知：春节期间（2023.01.19-2023.01.27）客服休假，天工网将暂停人工客服服务，不便之处敬请谅解。如有急事可联系紧急客服人员--天工网小陈：18988919586。祝大家春节快乐！
+</div>
+<!-- <div class="popup1" id="j-viewServicePersonal" style="display: none; width: 400px;">
+    <div class="title">紧急客服<span class="btn_close span_close"></span></div>
+    <div style="padding:20px 0 0 40px;color:red;font-size:16px;font-weight:bold">紧急客服人员联系电话：</div>
+    <ul style="padding: 5px 0 20px 40px;font-size:14px;font-weight:bold;line-height:25px">
+        <li>客服电话：天工网小陈 020-66351168  </li>
+    </ul>
+</div> -->
+<script type="text/javascript" src="//js.tgimg.cn/jquery/base/jquery.ui.1.2.js?v=202008201730"></script>
+<script type="text/javascript">
+    (function () {
+        var hours = new Date().getHours();
+        var viewBtn = $(".j-viewServicePersonal");
+        var viewBox = viewBtn.parent();
+        if (hours > 9 && hours < 17) {
+            viewBox.toggle(true);
+            viewBtn.click(function () {
+                $("#j-viewServicePersonal").popupLater({ deferred: '' });
+                return false;
+            });
+        }
+        function isDuringDate(beginDateStr, endDateStr) {
+            var curDate = new Date(),
+                beginDate = new Date(beginDateStr),
+                endDate = new Date(endDateStr);
+            if (curDate >= beginDate && curDate <= endDate) {
+                return true;
+            }
+            return false;
+        }
+        if (isDuringDate("2023/1/17", "2023/1/27 24:00")) {
+            $(".js-notice").show();
+        }
+    })(jQuery);
+</script>
+
+
+
+<script>
+    $(function () {
+        $(".js-jump-register-btn").on("click", function () {
+            var pageType = $("[name='pageType']").val() || '';
+            window.open("http://svc.tgnet.com/register.aspx?forward_source_page=" + encodeURIComponent(pageType));
+        });
+        $(".js-jump-pay").on("click", function () {
+            window.open(encodeURI("http://pay.tgnet.com/?forward_source_page=" + ($(this).attr("data-type") || '初级头部')));
+        })
+        $(".js-jump-memberService").on("click", function () {
+            window.open(encodeURI("http://p.tgnet.com/Pay/PaySelect.aspx?forward_source_page=" + ($(this).attr("data-type") || '初级头部')));
+        })
+        $('.js-down-app-btn').click(function(){
+        	sensors.track('tg_btn_click', {btn_name:"头部-下载app"});
+        })
+    })
+</script>
+</div>
+<!--右侧按钮-->
+<div class="fun-btn js-fun-btn">
+    <ul>
+        <li>
+            <a href="javascript:;" class="free-see fun-item js-free-see">免费查看<span class="tip-icon">免费</span></a>
+              <div class="code-login-main js-code-login-main">
+                <div class="code-content">
+                  <img class="qr-img js-qr-img" src="" alt="天工网" />
+                  <div class="refresh-wrap js-refresh-btn">
+                    <i class="refresh-icon"></i>
+                    <p class="refresh-text loading-text">加载中...</p>
+                    <p class="refresh-text">二维码已失效，点击刷新</p>
+                  </div>
+                </div>
+              </div>
+        </li>
+        <li>
+            <a class="share-btn fun-item js-share-btn" href="javascript:;">分享</a>
+            <div class="nav-main nav-share-main js-nav-share-main">
+                <div class="share-content">
+                    <p class="share-title">我的分享链接</p>
+                    <p class="share-link">推荐个项目给你：浙江杭州市萧政储出（2020）38号地块<br /><span class="js-share-link">http://p.tgnet.com/ZJHZXZ92/</span></p>
+                    <input id="copyshare" type="text" value="" readonly="true" />
+                    <button id="copyBtn">复制链接</button>
+                </div>
+            </div>
+        </li>
+        
+        
+        <li>
+            <a href="javascript:;" class="query-btn fun-item js-query-btn" id="testRightQueryBtn">查关键人</a>
+        </li>
+        <!--<li class="downBtn">
+            <a href="/Project/AppDownload.aspx" id="testRightDownApp" class="down-app fun-item" target="_blank">下载APP</a>
+            <div class="nav-main nav-app-main">
+
+                <a href="/Project/AppDownload.aspx" target="_blank">
+                      <img src="//file.tgimg.cn/Image/Show?fid=97602417077-d811284f-0adb-465e-84a1-f9a3ce409577.png" alt="天工网">
+                </a>
+                <p>首次登录送5条工程信息</p>
+            </div>
+        </li>-->
+        <!--<li class="qualityBtn js-qualityBtn showProject">
+            <a href="javascript:;" class="quality-btn" id="testQualityBtn">优质项目 <i></i></a>
+        </li>-->
+    </ul>
+</div>
+<!--优质项目推荐-->
+<!--<div class="quality-project js-quality-project">
+    <div class="quality-project-main">
+        <i></i>
+        <span class="quality-ico">优质项目推荐</span>
+        <span class="line-fff"></span>
+        <div class="quality-ul js-quality-ul swiper-container" id='quality-ul'>
+                <div class="swiper-wrapper"></div>
+            </div>
+        <a href="" target="_blank" class="btn-28 look-more-quality" id="testQualityBtn">查看更多优质项目</a>
+        <a href="javascript:;" class="retract-btn">收起</a>
+    </div>
+</div>-->
+<!--未绑定微信-->
+<div class="pop-main wechat-pop">
+    <div class="pop-top border-b">未绑定微信</div>
+    <a class="urge-update-close-btn"></a>
+    <div class="pop-content">
+        <p class="pop-text">绑定微信，随时追踪项目进度</p>
+        <img class="Qr-img" src="" alt="天工网" />
+        <p class="bottom-text">微信扫一扫</p>
+    </div>
+</div>
+
+<!--用户提示-->
+<div class="pop-main user-tips-pop">
+    <div class="pop-top border-b">用户提示</div>
+    <a class="close-icon"></a>
+    <div class="pop-content">
+        <p class="tips-question">联系客户遇到困难？</p>
+        <p class="attention-course">关注天工微课，听听业界大咖在工程销售的实战分享！</p>
+        <img class="Qr-img" src="//img.tgimg.cn/Project/newJuniorDetail/TG-qr.png" alt="天工网" />
+        <p class="bottom-text">微信扫一扫</p>
+    </div>
+</div>
+
+<!--提示-->
+<div class="pop-main tips-pop">
+    <div class="pop-top border-b">提示</div>
+    <a class="urge-update-close-btn"></a>
+    <div class="pop-content">
+        <p class="pop-text">追踪成功，项目有更新时会以消息的形式通知您！</p>
+        <a class="btn-32-border cancel-track" href="javascript:;">取消追踪</a>
+    </div>
+</div>
+
+<!--温馨提醒-->
+<div class="pop-main warm-remind-pop">
+    <div class="pop-top border-b">温馨提示</div>
+    <a class="close-icon" id="testCloseDetailBtn"></a>
+    <div class="pop-content">
+        <p class="pop-text">消耗 <span>1</span> 个次数查看</p>
+        <a class="btn-32 look-detail" href="javascript:;" id="testLookDetail">查看详情</a>
+        <p class="no-remind"><i class="" id="testNoRemind"></i>下次不再提示</p>
+        <p><a href="//tgnet.com/AYFNFI" target="_blank" class="bottom-text" rel="nofollow">下载APP，首次登陆送5条信息</a></p>
+    </div>
+</div>
+
+<!--催促更新-->
+
+<!--温馨提示-->
+<div class="pop-main reminder-pop">
+    <div class="pop-top border-b">温馨提示</div>
+    <a class="close-icon"></a>
+    <div class="pop-content">
+        <div class="pop-content-left">
+            <p class="pop-text">当前项目信息已超3个月未更新<br />项目信息可能有变动<br />如需我们提供进一步的项目信息<br />请点击左边导航的“催促更新”<br />如有问题，请加右边微信联系我们沟通</p>
+            <a class="btn-32 know-btn" href="javascript:;" id="testKonwBtn">我知道了</a>
+            <p class="no-tips"><i class="" id="testNoTips"></i>7天内不再提醒</p>
+        </div>
+        <div class="pop-content-right">
+            <img src="//img.tgimg.cn/Project/newJuniorDetail/image_QR_361x377.png" alt="天工网" />
+            <p>扫一扫上面的二维码图案，加我微信</p>
+        </div>
+    </div>
+</div>
+
+<!--初级试用过期弹窗-->
+<div class="pop-main trial-expired-pop" style="width: 420px;">
+    <div class="pop-top border-b">温馨提示</div>
+    <a class="close-icon"></a>
+    <div class="pop-content">
+        <p class="pop-text">您的体验期已结束，如需继续使用，请<a class="go-buy-servie" href="/Pay/PaySelect.aspx" target="_blank">开通会员</a><br/>可加微信了解近期优惠和高效信息应用方法</p>
+        <img src="//img.tgimg.cn/Project/newJuniorDetail/image_QR_361x377.png" alt="天工网" />
+        <div class="trial-expired-pop-btn">
+            <a class="clsoeBtn js-colse-expired-btn" href="javascript:;">我知道了</a>
+            <a class="btn-32 go-service-page" href="http://pay.tgnet.com/" target="_blank">了解会员服务</a>
+        </div>
+    </div>
+</div>
+
+<!--初级试用查看后弹窗-->
+<!--初级试用过期弹窗-->
+    <div class="pop-main trial-looked-pop">
+        <div class="pop-top border-b">温馨提示</div>
+        <a class="close-trial-looked-btn js-close-trial-looked-btn"></a>
+        <div class="pop-content">
+            <p class="pop-text">你还有<span>0</span>条查看权限，<span>0</span>天后过期</p>
+            <div class="recommend-projet">
+                <p>推荐查看以下浙江省重点项目：</p>
+                <ul class="look-project">
+                            <li>
+                                <a class="js-trial-looked-project highlight-ff6700" href="//p.tgnet.com/TXZYYY2/" title="中医医院迁建工程（浙江桐乡市）" target="_blank">中医医院迁建工程（浙江桐乡市）</a>
+                            </li>
+                            <li>
+                                <a class="js-trial-looked-project highlight-ff6700" href="//p.tgnet.com/ZJZLYY4/" title="肿瘤医院科教大楼项目（浙江杭州市）" target="_blank">肿瘤医院科教大楼项目（浙江杭州市）</a>
+                            </li>
+                            <li>
+                                <a class="js-trial-looked-project highlight-ff6700" href="//p.tgnet.com/ZJDXHZ2/" title="浙江大学杭州国际科创中心项目一期（杭州萧山国际科创中心开发有限公司）" target="_blank">浙江大学杭州国际科创中心项目一期（杭州萧山国际科创中心开发有限公司）</a>
+                            </li>
+                            <li>
+                                <a class="js-trial-looked-project " href="//p.tgnet.com/ZJHZGJ13/" title="国际博览中心二期项目（萧政储出（2020）8号）地块（BIM）（杭州萧山钱江世纪城开发建设有限责任公司）" target="_blank">国际博览中心二期项目（萧政储出（2020）8号）地块（BIM）（杭州萧山钱江世纪城开发建设有限责任公司）</a>
+                            </li>
+                            <li>
+                                <a class="js-trial-looked-project " href="//p.tgnet.com/ZJNBGJ15/" title="浙江宁波国际会议中心项目（含酒店）（宁波国际会议中心发展有限公司）" target="_blank">浙江宁波国际会议中心项目（含酒店）（宁波国际会议中心发展有限公司）</a>
+                            </li>
+
+                </ul>
+                <a class="pop-look-more-btn" href="//p.tgnet.com/1.2/2.1/0/" target="_blank">查看更多项目>></a>
+            </div>
+            <a class="btn-32 js-close-trial-looked-btn" href="javascript:;">关闭，先看当前项目</a>
+        </div>
+    </div>
+
+<!--催促更新提示框-->
+<div class="pop-main update-tip-pop" id="update-tip-pop">
+    <div class="pop-top border-b">提示</div>
+    <a class="close-icon js-close-icon"></a>
+    <div class="pop-content">
+        <p class="pop-text">
+            “催促更新” 服务仅限会员使用。<br />您的会员已过期，请及时充值。
+        </p>
+        <a class="btn-32 update-tip-btn" href="http://pay.tgnet.com/" target="_blank">了解会员优惠</a>
+    </div>
+</div>
+
+<!--填写催促更新需求-->
+<div class="pop-main editUpDatePop" id="editUpDatePop">
+    <div class="pop-top border-b">填写催促更新需求</div>
+    <a class="close-icon js-close-icon"></a>
+    <div class="pop-content">
+        <div class="edit-content choose-contacts">
+            <p class="edit-title"><span>*</span>选择您要更新哪一方（可多选）</p>
+            <div class="edit-contacts js-edit-contacts">
+                <label>
+                    <input type="checkbox" name="contacts-first-party" value="甲方" />
+                    甲方
+                </label>
+                <label>
+                    <input type="checkbox" name="contacts-design" value="设计" />
+                    设计
+                </label>
+                <label>
+                    <input type="checkbox" name="contacts-build" value="施工" />
+                    施工
+                </label>
+                <label>
+                    <input type="checkbox" name="contacts-other" value="其他" />
+                    其他
+                </label>
+            </div>
+        </div>
+        <div class="edit-content edit-demand">
+            <p class="edit-title"><span>*</span>说明您的更新要求</p>
+            <input class="write-info" type="text" name="update-demand" placeholder="例：设计公司是XXXXXXXX，我想找相关负责人" />
+        </div>
+        <div class="edit-content edit-infor">
+            <p class="edit-title"><span>*</span>您了解到了该项目的哪些信息可以提供给我们</p>
+            <input class="write-info" type="text" name="provide-infor" placeholder="一点点相关信息，都能减少您的等待时间" />
+        </div>
+        <div class="project-photos js-project-photos">
+            <input type="file" accept="image/*" name="projPhotos" id="projPhotos" val="" style="display: none;" />
+            <ul class="photos-list js-photos-list"></ul>
+            <a class="upload-photos-btn js-upload-photos" href="javascript:;">上传项目现场或项目名牌图片</a>
+        </div>
+        <a class="btn-32 submit-info-btn" href="javascript:;">提交</a>
+        <p class="submit-success-tip">1、成功提交催促跟新后，我们会在15个工作日对该项目信息进行挖掘<br />2、如果您急需项目其他信息和关键联系人信息，可使用<a href="http://m6.p.tgnet.com/ProjectQuery/Edit?projID=897714" target="_blank" rel="nofollow">人工查询服务</a></p>
+    </div>
+</div>
+
+<!--催促更新提交成功-->
+<div class="pop-main update-success-pop" id="update-success-pop">
+    <div class="pop-top border-b">提交成功</div>
+    <a class="close-icon js-close-icon"></a>
+    <div class="pop-content">
+        <p class="pop-title">提交成功</p>
+        <p class="pop-text">提交成功感谢您的反馈，我们会在15个工作日内对该项目信息进行挖掘。</p>
+        <img class="Qr-img js-qr-img" src="//img.tgimg.cn/project/v2/new-bg/TG-Qr.jpg" alt="天工网" />
+        <p class="bottom-text">请关注微信公众号，项目更新我们会第一时间通知您</p>
+        <a class="btn-32 update-success-btn js-success-btn" href="javascript:;">我已关注</a>
+    </div>
+</div>
+
+<!--企业名录提示-->
+<div class="pop-main company-tips-pop">
+    <div class="pop-top border-b">提示</div>
+    <a class="close-icon"></a>
+    <div class="pop-content">
+        <img class="company-detail" src="//img.tgimg.cn/Project/newJuniorDetail/company-img.png" alt="天工网" />
+        <p class="pop-text">企业名录：基于1000000+的项目库和企业库，发现该单位的人员以及他们参与过<br />的项目和关系，为您清理项目关系，方便您顺藤摸瓜做业务！仅对<span>高级会员服务</span>开<br />放，马上登记企业服务体验吧。</p>
+        <a class="btn-32 try-btn js-page-jump-register" href="javascript:;">登记试用</a>
+        <a class="btn-32-border know-service-btn" href="//p.tgnet.com/intro/CompanyIntro2.aspx" target="_blank">了解服务</a>
+    </div>
+</div>
+
+<!--纠错-->
+<div class="pop-main error-correction-pop">
+    <div class="pop-top border-b">欢迎纠正错误</div>
+    <a class="close-icon"></a>
+    <div class="pop-content">
+        <p class="pop-text">天工网的优质信息均经过公司信息员的认真核实，随着工程的进展项目也会发生一些变更，如果您发现部分信息不准确，有缺失或有变动，欢迎告诉我们跟进，给您带来不便，敬请谅解!</p>
+        <p class="error-reason">联系人错误具体的原因是？</p>
+        <ul class="error-reason-ul">
+            <li data-val='0'>
+                <a href="javascript:;"></a>
+                <p class="reason-one">没人接听<span class="try-more">（由于打的人比较多，建议您尝试几次）</span></p>
+            </li>
+            <li data-val='1'>
+                <a href="javascript:;"></a>
+                <p class="reason-two">空号、号码不存在</p>
+            </li>
+            <li data-val='2'>
+                <a href="javascript:;"></a>
+                <p class="reason-three">该人与项目无关，但并非项目关键负责人</p>
+            </li>
+            <li data-val='3'>
+                <a href="javascript:;"></a>
+                <p class="reason-four">该人与项目无关，但并非项目关键负责人</p>
+            </li>
+            <li data-val='4'>
+                <a href="javascript:;"></a>
+                <p class="reason-five">其他</p>
+            </li>
+        </ul>
+        <a class="btn-32 sure-btn" href="javascript:;">确定</a>
+        <a class="close-btn">关闭</a>
+        <p class="find-friend">如果急迫想了解项目情况，您也可以问问身边的业务朋友<br />如何扩大朋友圈？天工网为正式会员不但提供工程信息，还提供人脉拓展，帮助您结识做工程的行业人脉，合作交流。了解会员服务，请致电：<a class="phone-number" href="javascript:;"></a></p>
+    </div>
+</div>
+<!--下载弹窗-->
+<div class="pop-main downPop" id="downPop">
+    <div class="pop-top"></div>
+    <a class="close-icon"></a>
+    <div class="pop-content">
+        <img class="customer-img" src="//img.tgimg.cn/Project/newJuniorDetail/service-ioc.png" alt="天工网">
+        <img class="arrow-img" src="//img.tgimg.cn/Project/newJuniorDetail/bubble-ico.png" alt="天工网">
+        <div class="down-explain">
+            <p>下载项目信息功能只对<span>高级会员</span>开放</p>
+            <p>欢迎咨询客户专员，电话:<span class="phone-num"></span></p>
+        </div>
+        <div class="down-content">项目导出成PDF，方便跟进、分派给业务员以及公司进行业务管理存档。</div>
+        <div class="down-btn-main">
+            <a href="javascript:;" class="btn-32 bg-btn js-close-btn js-page-jump-register">申请试用</a>
+        </div>
+    </div>
+</div>
+
+<!--填写笔记弹窗-->
+<div class="pop-main write-notes-pop">
+    <div class="pop-top border-b">业务笔记</div>
+    <a class="close-icon"></a>
+    <div class="pop-content">
+        <textarea class="notesContent" value="" placeholder="您可以对项目添加业务笔记，方便任务跟进，业务笔记仅限自己可见。"></textarea>
+        <div class="note-label">
+            <span>可选标签</span>
+            <a href="javascript:;" class="scene-btn" data-tid="34">今天到现场</a>
+            <a href="javascript:;" class="chance-btn" data-tid="35">项目有机会</a>
+        </div>
+        <a href="javascript:;" class="btn-40-shadow keepNotes" id="testKeepNotes">保存笔记</a>
+    </div>
+</div>
+
+
+<!--超出购买地区-->
+<div class="pop-main beyond-area-pop">
+    <div class="pop-top border-b">用户提示</div>
+    <a class="close-icon"></a>
+    <div class="pop-content">
+        <p class="title">此项目超出您购买的服务地区</p>
+        <p class="content">
+            高级会员服务可以查看多个省份的工程信息，如果您想开通高级会员服务请联系：<br />
+            <span class="service-name"></span>&nbsp;电话：<span class="service-phone"></span><a class="qq-btn" id="beyond-qq" href="javascript:;"></a>
+        </p>
+        <a class="btn-32 know-service js-jump-pay" href="javascript:;">了解高级会员服务</a>
+    </div>
+</div>
+
+<!--超过一年的项目弹窗-->
+<div class="pop-main over-one-year-pop js-over-one-year-pop" style="width: 446px;">
+    <a class="close-icon" id="close-over-one-year-btn"></a>
+    <div class="over-one-year-pop-main">
+        <div class="over-one-year-pop-contnet">
+            <img src="//img.tgimg.cn/Project/newJuniorDetail/icon_update_72.png" alt="天工网" />
+            <p>该项目发布时间已超过1年，联系方式或已发生变更，建议优先跟进：<a class="news-project js-news-project" href="//p.tgnet.com/1.2/2.1/0/" target="_blank" data-name="浙江省的2023年近期发布的拟在建项目">浙江省的2023年近期发布的拟在建项目</a></p>
+        </div>
+        <div class="over-one-year-pop-btn">
+            <a href="javascript:;" class="continue-look-btn js-continue-look-btn">继续查看该项目</a>
+            <a href="//p.tgnet.com/1.2.11.13/2.1/0/" target="_blank" class="look-news-btn js-look-news-btn">查看近期项目</a>
+        </div>
+    </div>
+</div>
+
+
+<!--收藏分组-->
+<div class="pop-main collect-team">
+    <div class="pop-top border-b">收藏</div>
+    <a class="close-icon"></a>
+    <div class="pop-content">
+        <p class="title">为项目分组，方便管理</p>
+        <ul class="collect-detail-type">
+            <li data-id='1' style="width: 100px;">
+                <a href="javascript:;"></a>
+                <span>想要跟进</span>
+            </li>
+            <li data-id='2' style="width: 118px;">
+                <a href="javascript:;"></a>
+                <span>正在跟进</span>
+            </li>
+            <li data-id='3'>
+                <a href="javascript:;"></a>
+                <span>重点跟进</span>
+            </li>
+            <li data-id='4' style="width: 100px;">
+                <a href="javascript:;"></a>
+                <span>已签单</span>
+            </li>
+            <li data-id='5' style="width: 118px;">
+                <a href="javascript:;"></a>
+                <span>已跟完没签单</span>
+            </li>
+            <li data-id='6'>
+                <a href="javascript:;"></a>
+                <span>其他</span>
+            </li>
+        </ul>
+        <a class="add-collect-team js-add-collect-team">新建分组</a>
+        <div class="add-collect-main js-add-collect-main">
+            <input class="team-name" type="text" name="addCollectTeam" value="" placeholder="请输入新建分组名称" />
+            <a class="btn-26 sure-btn js-sure-btn">确定</a>
+            <span class="colse-add-team "></span>
+        </div>
+        <div class="collect-btn">
+            <a class="btn-32 sure-collect-btn">确定收藏</a>
+            <a class="btn-32-border cancel-collect-btn">关闭</a>
+        </div>
+        <p class="collect-tip js-collect-tip">收藏可为你追踪项目近期进展及联系人更新情况</p>
+        <p class="cancel-collect-tip js-cancel-collect-tip">取消收藏后将不再追踪项目近期动态</p>
+    </div>
+</div>
+
+<!--地图-->
+<div class="pop-main map-pop js-map-pop" style="display:none;">
+    <div class="pop-top border-b">下载工程帮APP，随时随地找到身边的项目，还能地图导航去工地！<a href="//p.tgnet.com/Project/AppDownload.aspx" target="_blank" rel="nofollow">立即下载>></a></div>
+    <a class="close-icon"></a>
+    <div class="map-pop-main"></div>
+    <div class="map-pop-tips">注：地图上显示的项目位置仅供参考，具体情况以工地现场为准</div>
+</div>
+
+<!--现场照片点击查看大图-->
+<div class="mask-layer"></div>
+<div class="img-popup" id="img-popup" name="tanchuang">
+    <a id="btn-img" class="btn-img"></a>
+    <div class="big-img" data-num="0">
+        <img id="big-img" src="" alt="" />
+        <div class="img-nav" id="img-nav" style="display: block;">
+            <a class="img-prev" id="img-prev" style="display: block;"></a>
+            <a class="img-next" id="img-next" style="display: block;"></a>
+        </div>
+    </div>
+    <!--   分享人、时间-->
+    <div class="footprint">
+        <div class="who-share fn-clear">
+            <div class="share-content">
+                <p><span class="high js-name"></span>在工程帮app上分享了图片</p>
+                <p class="js-tag"></p>
+                <p class="js-time"></p>
+            </div>
+            <div class="data-share"></div>
+        </div>
+        <div class="download-app fn-clear">
+            <ul class="share-ul">
+                <li>
+                    <img src="//img.tgimg.cn/project/v2/bg/phone-img.png" onclick="bigbackground('tanchuang')" />
+                </li>
+                <li class="communication-proj">
+                    <span>下载App发现更多项目足迹<br /><a href="//tgnet.com/AYGBOP" target="_blank" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'primaryDetailShowBigDownload', 'click','pc初级底层查看大图下载'])">立即下载>></a></span>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<!--联系人关注企业成功弹窗-->
+<div class="pop-main success-pop js-observe-business-pop">
+    <div class="pop-top border-b">关注企业成功</div>
+    <a class="urge-update-close-btn js-close-pop"></a>
+    <div class="pop-content">
+        <p class="pop-desc">扫码安装App，企业有新动态及时通知您！</p>
+        <a href="//p.tgnet.com/Project/AppDownload.aspx" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'trackBusinessPopDownload', 'click',''初级底层——联系人关注企业成功下载'])" target="_blank">
+            <img class="Qr-img" src="//file.tgimg.cn/Image/Show?fid=90536896252-162a567b-a7ee-452d-95e6-1e776de9db9f.png" alt="天工网" />
+        </a>
+        <p class="bottom-text"><a href="javascript:;" class="not-prompt-again-btn">我已安装，不再提示</a></p>
+    </div>
+</div>
+<!--跟进项目成功弹窗-->
+<div class="pop-main success-pop js-follow-success-pop">
+    <div class="pop-top border-b">跟进成功</div>
+    <a class="urge-update-close-btn js-close-pop"></a>
+    <div class="pop-content">
+        <p class="pop-desc">扫码安装App，项目有新动态及时通知您！</p>
+        <a href="//p.tgnet.com/Project/AppDownload.aspx" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'primaryFollowSuccessDownload', 'click','初级底层——跟进项目成功下载'])" target="_blank">
+            <img class="Qr-img" src="//file.tgimg.cn/Image/Show?fid=62262413543-428133bc-9360-4312-9131-c0d02ef72680.png" alt="天工网" />
+        </a>
+        <p class="bottom-text"><a href="javascript:;" class="not-prompt-again-btn">我已安装，不再提示</a></p>
+    </div>
+</div>
+<!--收藏项目成功弹窗-->
+<div class="pop-main success-pop js-collect-success-pop">
+    <div class="pop-top border-b">收藏成功</div>
+    <a class="urge-update-close-btn js-close-pop"></a>
+    <div class="pop-content">
+        <p class="pop-desc">扫码安装App，项目有新动态及时通知您！</p>
+        <a href="//p.tgnet.com/Project/AppDownload.aspx" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'primaryCollectSuccessDownload', 'click','初级底层——收藏成功下载'])" target="_blank">
+            <img class="Qr-img" src="//file.tgimg.cn/Image/Show?fid=66032413920-49934ed6-ae84-4020-808e-24a103b29123.png" alt="天工网" />
+        </a>
+        <p class="bottom-text"><a href="javascript:;" class="not-prompt-again-btn">我已安装，不再提示</a></p>
+    </div>
+</div>
+<!--人脉雷达-->
+<div class="human-radar-pop js-human-radar-pop">
+    <a class="close-btn js-close-btn"></a>
+    <div class="pop-top f-clear">
+        <span class="pop-title">人脉雷达</span>
+        <ul class="tab">
+            <li>
+                <a href="javascript:;" class="tab-item js-tab-item current" data-type="friend" onclick="_hmt.push(['_trackEvent', 'humanRadarFriendTab', 'click','人脉雷达Tab——探测好友'])">
+                    探测好友
+                    <i class="list-icon"></i>
+                </a>
+            </li>
+            <li>
+                <a href="javascript:;" class="tab-item js-tab-item" data-type="member" onclick="_hmt.push(['_trackEvent', 'humanRadarMemberTab', 'click','人脉雷达Tab——探测天工会员'])">
+                    探测天工会员
+                    <i class="list-icon"></i>
+                </a>
+            </li>
+            <li>
+                <a href="javascript:;" class="tab-item js-tab-item" data-type="weixinGroup" onclick="_hmt.push(['_trackEvent', 'humanRadarWeixinGroupTab', 'click','人脉雷达Tab——探测行业群友'])">
+                    探测行业群友
+                    <i class="list-icon"></i>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="pop-content">
+        <div class="tab-main friend-tab-main js-tab-main" data-type="friend">
+            <div class="left-content">
+                <div class="radar-main">
+                    <div class="radar-sector"></div>
+                    <span class="radar-dot radar-dot1"></span>
+                    <span class="radar-dot radar-dot2"></span>
+                    <span class="radar-dot radar-dot3"></span>
+                    <span class="radar-dot radar-dot4"></span>
+                    <div class="js-friend-list"></div>
+                </div>
+            </div>
+            <div class="right-content">
+                <i class="corner tl-corner"></i>
+                <i class="corner tr-corner"></i>
+                <i class="corner bl-corner"></i>
+                <i class="corner br-corner"></i>
+                <p class="content-title">探测结果</p>
+                <p class="loading-desc js-loading">正在探测人脉，请稍候…</p>
+                <div class="content-main js-tab-content">
+                    <p>发现您有：</p>
+                    <ul class="data-list">
+                        <li><span class="num" style="margin-left:0;" id="friendCount">42</span>位可能认识的好友或客户</li>
+                        <li>可能帮您拓展位<span class="num" id="newCustomerCount">295</span>新客户</li>
+                        <li>带给您<span class="num" id="proSourceCount">445</span>个项目资源</li>
+                    </ul>
+                    <div class="download-main">
+                        <i class="corner tl-corner"></i>
+                        <i class="corner tr-corner"></i>
+                        <i class="corner bl-corner"></i>
+                        <i class="corner br-corner"></i>
+                        <p class="main-text">扫码下载APP联系他们，获取帮助</p>
+                        <a href="//p.tgnet.com/Project/AppDownload.aspx" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'humanRadarFriendDownload', 'click','人脉雷达——探测好友APP下载'])" target="_blank">
+                            <img src="//file.tgimg.cn/QRCode/Index?url=http://tgnet.com/AYFOEK" alt="天工网">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tab-main member-tab-main js-tab-main" data-type="member">
+            <div class="loading-main js-loading">
+                <div class="radar-main">
+                    <div class="radar-sector"></div>
+                    <span class="radar-dot radar-dot1"></span>
+                    <span class="radar-dot radar-dot2"></span>
+                    <span class="radar-dot radar-dot3"></span>
+                    <span class="radar-dot radar-dot4"></span>
+                </div>
+                <div class="right-content">
+                    <i class="corner tl-corner"></i>
+                    <i class="corner tr-corner"></i>
+                    <i class="corner bl-corner"></i>
+                    <i class="corner br-corner"></i>
+                    <p class="content-title">探测结果</p>
+                    <p class="loading-desc">正在探测人脉，请稍候…</p>
+                </div>
+            </div>
+            <div class="tab-content js-tab-content">
+                <div class="left-content">
+                    <ul class="member-list js-member-list"></ul>
+                    <p class="content-desc">扫码安装APP，查看全部在跟会员</p>
+                </div>
+                <div class="right-content">
+                    <i class="corner tl-corner"></i>
+                    <i class="corner tr-corner"></i>
+                    <i class="corner bl-corner"></i>
+                    <i class="corner br-corner"></i>
+                    <p class="content-title">探测结果</p>
+                    <div class="content-main">
+                        <p>此项目有：</p>
+                        <p class="mt"> <span class="high-color js-member-num" id="focusMemberCount">0</span> 位会员在关注，其中</p>
+                        <ul class="data-list f-clear">
+                            <li>
+                                <span class="num js-footprint-num" id="footprintCount">0</span>
+                                <p>人去过现场</p>
+                            </li>
+                            <li>
+                                <span class="num js-key-num" id="keyCount">0</span>
+                                <p>人找到关键人</p>
+                            </li>
+                            <li>
+                                <span class="num js-signed-num" id="signedCount">0</span>
+                                <p>人已签单</p>
+                            </li>
+                            <li>
+                                <span class="num js-recommend-num" id="recommendCount">0</span>
+                                <p>人可引荐</p>
+                            </li>
+                        </ul>
+                        <div class="download-main">
+                            <i class="corner tl-corner"></i>
+                            <i class="corner tr-corner"></i>
+                            <i class="corner bl-corner"></i>
+                            <i class="corner br-corner"></i>
+                            <p class="main-text">扫码下载APP联系他们，获取帮助</p>
+                            <a href="//p.tgnet.com/Project/AppDownload.aspx" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'humanRadarMemberDownload', 'click','人脉雷达——探测天工会员APP下载'])" target="_blank">
+                                <img src="//file.tgimg.cn/QRCode/Index?url=http://tgnet.com/AYFOEM" alt="天工网">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tab-main weixinGroup-tab-main js-tab-main" data-type="weixinGroup">
+            <div class="bg"></div>
+            <div class="right-content">
+                <i class="corner tl-corner"></i>
+                <i class="corner tr-corner"></i>
+                <i class="corner bl-corner"></i>
+                <i class="corner br-corner"></i>
+                <p class="content-title">探测结果</p>
+                <div class="content-main">
+                    <p>天工网累计有：</p>
+                    <ul class="data-list">
+                        <li>
+                            <span class="high-color" id="groupCount">342</span> 个业务合作交流群</p>
+                        </li>
+                        <li>
+                            覆盖全国 <span class="high-color" id="cityCount">43</span> 个重点城市</p>
+                        </li>
+                        <li>您可以申请加入本地交流群</li>
+                        <li>与群友互通资源、合作跑业务</li>
+                    </ul>
+                    <div class="main-bottom">
+                        <p>加入交流群，获取帮助</p>
+                        <p class="mt">（仅限付费会员）</p>
+                        <a href="https://mp.weixin.qq.com/s/2H_RhCznBegIR0ZM9JJfkw" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'humanRadarJoinGroup', 'click','人脉雷达——加入业务合作交流群'])" target="_blank" class="pop-btn mt">加入业务合作交流群</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--App下载引导-->
+<div class="download-app-pop js-download-app-pop">
+    <a class="close-btn js-close-btn"></a>
+    <p class="pop-title">联系会员仅支持在App中操作，请扫码下载App</p>
+    <div class="img-wrap">
+        <i class="corner tl-corner"></i>
+        <i class="corner tr-corner"></i>
+        <i class="corner bl-corner"></i>
+        <i class="corner br-corner"></i>
+        <a href="//p.tgnet.com/Project/AppDownload.aspx" rel="nofollow" onclick="_hmt.push(['_trackEvent', 'humanRadarClickContactPopCode', 'click','人脉雷达——天工会员点击联系弹框二维码'])" target="_blank">
+            
+            <img src="//file.tgimg.cn/QRCode/Index?url=http://tgnet.com/AYFOEN" alt="天工网">
+        </a>
+    </div>
+</div>
+<!--联系人拔打弹窗-->
+<div class="call-contact-pop js-call-contact-pop">
+    <a class="close-btn js-close-btn"></a>
+    <p class="pop-title">提示</p>
+    <div class="pop-content">
+        <p class="title js-contact-info"></p>
+        <p class="desc"><span>温馨提示：</span>为了提升签单成功率，请不要告知对方信息来源于网上。</p>
+        <div class="btn-main">
+            <a href="//tgnet.com/AYFLRH" rel="nofollow" target="_blank" class="left-btn">电话技巧视频</a>
+            <a href="javascript:;" class="right-btn js-write-note-btn">填写笔记</a>
+        </div>
+    </div>
+</div>
+<!--底部广告条-->
+<div class="footer-guide js-footer-guide">
+    <div class="layout-1440 footer-guide-main">
+        <img class="run-image" src="//img.tgimg.cn/Home/new/image_foot_524x227.png" alt="天工网" />
+        <img class="run-text" src="//img.tgimg.cn/Home/new/icon_run_415x66.png" alt="天工网" />
+        <div class="project-info">
+            <p>工程信息<span id="project-num" class="project-num num"></span><span class="num">万</span><span class="unit">+/年</span></p>
+            <p>招采信息<span id="bidding-num" class="biddig-num num"></span><span class="num">万</span><span class="unit">+/日</span></p>
+            <p>工程行业人脉<span id="contacts-num" class="contacts-num num"></span><span class="num">万</span><span class="unit">+</span></p>
+        </div>
+        <a class="try-btn js-join-in">立即免费试用</a>
+    </div>
+    <a class="close-guide js-close-guide" href="javascript:;"></a>
+</div>
+
+<!--<div class="footer-guide-btn js-footer-guide-btn">
+    <a href="javascript:;">
+        免费试用<i></i>
+    </a>
+</div>-->
+
+
+
+<div class="footer js-footer">
+    <div class="footer-contact">
+        <div class="layout-1090 home-contact-main">
+            <div class="fl">
+                <p class="main-tit">会员服务</p>
+                <ul class="service-ul" style="padding-right: 103px;">
+                    <li>
+                        <a href="javascript:;" class="js-footer-jump-pay">会员服务</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="js-footer-jump-pay">初级会员权益</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="js-footer-jump-pay">高级会员权益</a>
+                    </li>
+                    <li>
+                        <a href="javascript:;" class="js-footer-jump-memberService">购买会员服务</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="fl">
+                <p class="main-tit">天工服务</p>
+                <ul class="service-ul" style="padding-right: 132px;">
+                    <li>
+                        <a href="http://m6.p.tgnet.com/ProjectQuery/Index" target="_blank" rel="nofollow">人工查询</a>
+                    </li>
+                    <li>
+                        <a href="http://m.club.tgnet.com/act/WeixinQuan" target="_blank" rel="nofollow">业务微信群</a>
+                    </li>
+                    <li>
+                        <a href="http://m.p.tgnet.com/Supplier/SeachSuppliers" target="_blank" rel="nofollow">优质供应商</a>
+                    </li>
+                    <li>
+                        <a href="http://p.tgnet.com/SmallClass/index.aspx" target="_blank" rel="nofollow">天工微课</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="fl">
+                <p class="main-tit">快速入口</p>
+                <ul class="service-ul" style="padding-right: 132px;">
+                    <li>
+                        <a href="//p.tgnet.com" target="_blank" rel="nofollow">工程信息</a>
+                    </li>
+                    <li>
+                        <a href="//bid.tgnet.com" target="_blank" rel="nofollow">招采信息</a>
+                    </li>
+                    <li>
+                        <a href="http://club.tgnet.com/" target="_blank" rel="nofollow">同城活动</a>
+                    </li>
+                    <li>
+                        <a href="http://wd.tgnet.com/" target="_blank" rel="nofollow">问答平台</a>
+                    </li>
+                    <li>
+                        <a href="http://wd.tgnet.com/Discuss/" target="_blank" rel="nofollow">讨论平台</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="hfm-left-main fl">
+                <p class="main-tit">服务咨询</p>
+                <p class="left-main-phone">联系电话：020-66351168</p>
+                <img src="//img.tgimg.cn/Home/new/image_downApp_180.png" alt="天工网" />
+                <p class="TG-Qr">天工网官方公众号</p>
+            </div>
+            <div class="hfm-right-main">
+                <p class="main-tit">工程帮</p>
+                <div class="hfm-code-wrap">
+                    <p>工程帮APP下载</p>
+                    <a href="//p.tgnet.com/Project/AppDownload.aspx" target="_blank" rel="nofollow">
+                        <img src="//img.tgimg.cn/Home/new/image_gzh_180.png" alt="工程帮APP下载">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-line"><div></div></div>
+    <div class="footer_related">
+        <div class="layout-1090">
+            <div class="f-clear footerRelated-left-main">
+                <a href="http://about.tgnet.com/legal/tos" target="_blank" rel="nofollow">服务条款</a>
+                <a href="http://svc.tgnet.com/" target="_blank" rel="nofollow">业务合作</a>
+                <a href="//p.tgnet.com/Project_map.html" target="_blank" rel="nofollow">网站地图</a>
+                <a href="http://about.tgnet.com/joinus/join" target="_blank" rel="nofollow">诚征英才</a>
+                <a href="http://about.tgnet.com/AboutUs/About" target="_blank" rel="nofollow">关于天工</a>
+            </div>
+            <div class="footerRelated-right-main">
+                <p>
+                    广东掌中万维电子有限公司版权所有&copy;2006-<text id="curYear"></text>
+                    ICP证：<a href="https://beian.miit.gov.cn/" target="_blank" rel="nofollow ">粤ICP备10050609号-4</a>
+                </p>
+                <p><img src="//img.tgimg.cn/Common/gajbn-icon.png" style="float:left;margin-right:5px;margin-top: 6px;" width="16" height="16">粤公网安备 44010402000727号&nbsp;&nbsp;经营许可证:粤B2-20090138<a style="margin-left:10px;" href="https://www.tgnet.com/businessLicense.aspx">营业执照</a></p>
+            </div>
+            <script type="text/javascript">
+                $("#curYear").text(new Date().getFullYear());
+            </script>
+        </div>
+    </div>
+</div>
+<div class="fixed-right-navMain js-fixed-right-navMain">
+    <ul>
+        <li class="down-app">
+            <div class="down-btn"><i></i></div>
+            <span class="js-down-app-text">下载APP</span>
+            <div class="nav-main down-app-main js-down-app-main ">
+                <div class="down-content">
+                    <a href="//p.tgnet.com/Project/AppDownload.aspx" target="_blank" rel="nofollow">
+                        <img src="//img.tgimg.cn/Home/code.jpg" alt="天工网" />
+                    </a>
+                    <p>工程帮APP下载</p>
+                </div>
+            </div>
+        </li>
+        <li class="weChat">
+            <i></i>
+            <span>关注微信</span>
+            <div class="nav-main weChat-main js-weChat-main">
+                <div class="down-content">
+                    <img src="//img.tgimg.cn/Project/new_ico/newTgQr.jpg" alt="天工网" />
+                    <p>关注天工网官方平台</p>
+                    <div>领取十年项目攻关经验资料包</div>
+                </div>
+            </div>
+        </li>
+        <li class="service-phone">
+            <i></i>
+            <span>联系客服</span>
+            <div class="nav-main service-phone-main js-service-phone-main">
+                <div class="service-main">
+                    <p class="service-name"><img src="//img.tgimg.cn/Home/new/image_TG_logo_273x73.png" alt="天工网" />天工网客服</p>
+                    <p class="phone">020-66351168</p>
+                </div>
+            </div>
+        </li>
+
+        <li class="nav-up js-nav-up">
+            <div class="nav-up-btn"><i></i></div>
+            <span class="js-nav-up-text">置顶</span>
+        </li>
+    </ul>
+</div>
+<div class="pop-bg js-pop-bg"></div>
+<div class="copy-pop js-copy-pop">
+    <div class="pop-top border-b">提示</div>
+    <a class="copy-close-icon js-close-copy-btn"></a>
+    <div class="pop-content">
+        <p class="copy-text">复制成功，快去分享给朋友吧！</p>
+        <a href="javascript:;" class="btn-32 sure-btn js-sure-btn">好的</a>
+    </div>
+</div>
+
+<script>
+    $(function () {
+        $(".js-footer .js-footer-jump-pay").on("click", function () {
+            window.open(encodeURI("http://pay.tgnet.com/?forward_source_page=底部功能栏-购买会员服务"));
+        })
+        $(".js-footer .js-footer-jump-memberService").on("click", function () {
+            window.open(encodeURI("//p.tgnet.com/Pay/PaySelect.aspx?forward_source_page=底部功能栏-购买会员服务"));
+        })
+        //底部，侧边导航
+        var $rightNav = $(".js-fixed-right-navMain"),
+            $upNav = $(".js-nav-up"),
+            $nav = $('.js-fixed-right-navMain'),
+            $footer = $('.js-footer'),
+            $win = $(window);
+        //侧边导航
+        (function () {
+            var $nav = $(".fixed-right-navMain");
+            $nav.css("top", ($win.height() - $nav.outerHeight()) / 2);
+            $upNav.on("click", function () {
+                $('.js-header').show();
+                $("body,html").animate({
+                    "scrollTop": "0px"
+                }, 500);
+            });
+        })();
+
+        $('.js-close-copy-btn,.js-sure-btn').click(function () {
+            $('.js-pop-bg,.js-copy-pop').hide();
+        })
+
+        var $shareTip = $(".js-nav-share-main");
+        $(".nav-share").hover(function () {
+            var shareTipH = $('.share-content', $shareTip).outerHeight();
+            $shareTip.css({
+                "height": shareTipH + 'px'
+            })
+        })
+
+
+
+
+    })
+</script>
+
+
+
+
+<script type="text/javascript">
+
+    var _hmt = _hmt || [];
+    $(document).ready(function () {
+        $(".js-jump-pay").on("click", function () {
+            window.open(encodeURI("http://pay.tgnet.com/?forward_source_url=" + window.location.href + "&forward_source_page=信息底层_弹窗"));
+        })
+        var sendData = [{ "pn": "00430001000500030001" }],
+            _url = "//tgadv.tgimg.cn/tgadvList.aspx?params=";
+        $.JsLoader(_url + json_encode(sendData), function () {
+            var data = $.parseJSON(decodeURIComponent(tgadv[0].json)),
+                $win = $(window),
+                len = data.length;
+            if (len != 0) {
+                var _html = "";
+                for (var i = 0; i < len; i++) {
+                    var item = data[i];
+                    _html += '<div class="swiper-slide"><a target="_blank" href="' + (item.Url != '' ? 'http://tgadv.tgimg.cn/TgAdvClick.aspx?id=' + item.ID + '&jumpto=' + decodeURIComponent(item.Url) : 'javascript:;') + '"><img src="' + decodeURIComponent(item.Path) + '"/></a></div>';
+                }
+                $("#banner").show();
+                $("#banner .swiper-wrapper").html(_html);
+                if (len > 1) {
+                    var bannerSwiper = new Swiper('#banner', {
+                        mode: 'horizontal',
+                        loop: true,
+                        autoplay: 3000,
+                        pagination: '#banner .pagination',
+                        paginationClickable: true,
+                        grabCursor: true,
+                        onSlideChangeEnd: function (swiperHere) {
+                            var index = swiperHere.activeLoopIndex,
+                                $main = $(".banner-right-main");
+                            if (index == 1 || index == 2 || index == 3) {
+                                $main.hide();
+                            } else {
+                                $main.show();
+                            }
+                        }
+                    }),
+                        $con = $("#banner");
+                    $con.on("mouseenter", function () {
+                        bannerSwiper.stopAutoplay();
+                    });
+                    $con.on("mouseleave", function () {
+                        bannerSwiper.startAutoplay();
+                    });
+                }
+            }
+        });
+    })
+
+
+</script>
+
+<script type="text/javascript">
+
+    (function () {
+        //360自动提交收录
+        var src = "https://s.ssl.qhres2.com/ssl/ab77b6ea7f3fbf79.js?9ff4c4ecc5806833eb1d216b2b61475e";
+        document.write('<script src="' + src + '" id="sozz"><\/script>');
+        //百度统计
+        var hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?048611a1254198d6cbb8a899d5828368";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+        //为了更准确更方便的查看页面的统计情况
+        hm = document.createElement("script");
+        hm.src = "//hm.baidu.com/hm.js?9ba016b3cc91f9e7472adca91a159361";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+        // 用户行为统计
+        if ($ && $.JsLoader) {
+            var strUrl = window.location.protocol + "//user.tgnet.com/System/UserTrack.aspx?op=usertrack&u=" + encodeURIComponent(location.href) + "&ref=" + encodeURIComponent(document.referrer) + "&title=" + escape(document.title);
+            $.JsLoader(strUrl);
+        }
+    })();
+</script>
+
+
+</body>
+</html>
