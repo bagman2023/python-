@@ -1,0 +1,1161 @@
+<html lang="zh-CN"><head><script async="" id="beacon-aplus" src="https://alidt.alicdn.com/alilog/mlog/aplus_cloud.js?v=20200518"></script><script async="" src="http://dcs.conac.cn/js/12/000/0000/41029350/CA120000000410293500002.js?_=1680485096849"></script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="renderer" content="webkit">
+    
+			<meta name="SiteName" content="浙江省公共资源交易服务平台">
+			<meta name="SiteDomain" content="zjpubservice.zjzwfw.gov.cn">
+			<meta name="SiteIDCode" content="3300000139">
+			<meta name="Description" content="浙江省公共资源交易服务平台，公共资源，交易平台">
+			<meta name="Keywords" content="浙江省公共资源交易服务平台，公共资源，交易平台">
+			<title>浙江省公共资源交易服务平台</title>
+			 
+            <meta name="ColumnName" "="" content="交易信息公开">
+            <meta name="ColumnDescription" content="发布浙江省公共资源交易信息">
+            <meta name="ColumnKeywords" content="浙江省，公共资源，交易信息">
+            <meta name="ColumnType" content="交易信息公开"> 
+			<link rel="stylesheet" href="/css/common.css">
+    <link rel="stylesheet" href="/js/lib/datepicker/bootstrap-datetimepicker.css">
+    <link rel="stylesheet" href="/js/lib/pagination/mricode.pagination.css">
+    <link rel="stylesheet" href="/js/lib/chosen/chosen.css">
+    <link rel="stylesheet" href="/css/list.css">
+	<link rel="stylesheet" href="/css/popAD.css">
+    <link rel="stylesheet" href="/css/ADcss.css" media="screen">
+    <script src="/js/lib/jquery.min.js"></script>
+	<script src="/js/mustache.js"></script>
+	<script src="https://fgdnyd.fzggw.zj.gov.cn/trace.bundle.js"></script> 
+	<script type="text/javascript"> 
+		let data={
+		 title:document.title,
+		 url: window.location.href,
+		 userId:'',
+		 appid:'fgdn_ggzyjyfwpt',
+		 areaCode:'330000000000',
+		 moduleCode:'服务平台', 
+		}
+		window.fgdn_custom_trace(data);
+	</script>
+
+   <link rel="stylesheet" href="/css/webBuilderCommonGray.css"><link rel="stylesheet" href="http://zjpubservice.zjzwfw.gov.cn/js/lib/layer/skin/default/layer.css?v=3.0.11110" id="layuicss-skinlayercss"></head>
+<body>
+	<!-- header -->
+    <div id="header"><!--
+ * @Descripttion: 
+ * @Author: hxh
+ * @Date: 2021-03-15 08:57:03
+-->
+<!-- header --> 
+<div class="header">
+	<div class="header-top">
+		<div class="container">
+			<img src="/zhejiangnew/images/img_logo.png" alt="" class="logo l" onclick="window.open('https://www.zjzwfw.gov.cn/zjservice/front/index/page.do?webId=1')">
+			<div class="logo-text l">
+				浙江省公共资源交易服务平台系统
+			</div>
+ <div class="search r">
+                        <input type="text" id="headersearchval">
+                        <button id="headersearch"></button>
+                    </div>
+<div class="header-btn">
+                <a href="javascript:;" onclick="aria.start()" class="btn access">阅读辅助</a>
+                <a href="javascript:;" class="btn old" onclick="aria.oldFixedStart()" clickhide="false" opentext="进入关怀版" closetext="退出关怀版">进入关怀版</a>
+				<a href="https://p.cnwza.cn/api/services/Accessibility/Client/pc?AppId=076c4bf59c6ffa69d1d1391e782fe382" class="btn client" target="_blank">适老化客户端下载</a>
+            </div>
+ 		<div class="search r" style="display:none">
+				<input type="text" class="l" id="search" placeholder="请输入搜索关键字">
+				<button class="l" id="serach-btn"></button>
+			</div>
+		</div>
+	</div>
+	<div class="header-banner">
+		<div class="container">
+			<div class="banner-text">
+				全国公共资源交易平台（浙江省）
+				<div>
+					浙江省公共资源交易服务平台
+				</div>
+			</div>
+		</div>
+		<div class="header-menu">
+			<div class="container">
+				<ul class="menu-list clearfix">
+					<div class="menu-item l"><a href="/zhejiangnew/index.html">首页</a></div>
+					<div class="menu-item l" id="009"><a href="http://zjpubservice.zjzwfw.gov.cn/zcfg/zcfg.html">政策文件</a></div>
+					<div class="menu-item l active" id="002"><a href="http://zjpubservice.zjzwfw.gov.cn/jyxxgk/list.html">交易信息公开</a></div>
+					<div class="menu-item l" id="003"><a href="http://zjpubservice.zjzwfw.gov.cn/jyztgs/listiframe_jyztgs.html">交易主体公示</a></div>
+					<div class="menu-item l" id="004"><a href="http://zjpubservice.zjzwfw.gov.cn/pbpszj/pszj.html">评标评审专家 </a></div>
+					<div class="menu-item l" id="006"><a href="http://zjpubservice.zjzwfw.gov.cn/xyxxgk/listiframe_xyxxgk.html">信用信息公示</a></div>
+					<div class="menu-item l" id="jrfw"><a href="http://zjpubservice.zjzwfw.gov.cn/zhejiangnew/digital.html">金融服务</a></div>
+					<div class="menu-item l" id="020"><a href="http://zjpubservice.zjzwfw.gov.cn/hdjl/hdjl.html">互动交流</a></div>
+				</ul>
+			</div>
+		</div>
+	</div>
+
+</div>  </div>
+    <!-- main -->
+    <div class="ewb-main">
+    	<div class="ewb-container">
+    		<div class="ewb-loc">
+    			<p><a href="/">首页</a>  &gt;  <span class="ewb-blue">交易信息公开</span></p>
+    		</div>
+    		<div class="ewb-chose">
+    			<div class="ewb-chose-mod clearfix">
+    				<span class="ewb-chose-name">发布时间：</span>
+    				<div class="ewb-chose-info">
+    					<div class="ewb-kind clearfix">
+    						<ul class="ewb-kind-items clearfix" id="fbsj">
+    							<li class="ewb-kind-item">
+    								<a href="javascript:void(0);" value="0">当天</a>
+    							</li>
+    							<li class="ewb-kind-item cur">
+    								<a href="javascript:void(0);" value="3">近三天</a>
+    							</li>
+    							<li class="ewb-kind-item">
+    								<a href="javascript:void(0);" value="7">近一周</a>
+    							</li>
+    							<li class="ewb-kind-item">
+    								<a href="javascript:void(0);" value="30">近一月</a>
+    							</li>
+    							<!-- <li class="ewb-kind-item">
+    								<a href="javascript:void(0);" value="180">近三个月</a>
+    							</li> -->
+    							<li class="ewb-kind-item ewb-last-kind">
+    								<a href="javascript:void(0);">时间区间</a>
+    							</li>
+    						</ul>
+    						<div class="ewb-datewrap clearfix">
+						        <span class="ewb-find-inp inp-date l" id="date-start"></span>
+						        <span class="ewb-find-to l">-</span>
+						        <span class="ewb-find-inp inp-date l" id="date-end"></span>
+						    </div>
+    					</div>
+    				</div>
+    			</div>
+                <div class="ewb-chose-mod clearfix ewb-chose-tollge">
+                    <span class="ewb-chose-name">交易地区：</span>
+                    <div class="ewb-area clearfix">
+                        <span class="ewb-area-name">省级</span>
+                        <select class="ewb-area-sel" id="shengjiselect" style="display: none;">
+                            <option value="33">浙江省</option>
+							<option value="330000">省本级</option>
+                        </select><div class="chosen-container chosen-container-single chosen-container-single-nosearch" title="" id="shengjiselect_chosen" style="width: 187px;"><a class="chosen-single">
+  <span>浙江省</span>
+  <div><b></b></div>
+</a>
+<div class="chosen-drop">
+  <div class="chosen-search">
+    <input class="chosen-search-input" type="text" autocomplete="off" readonly="">
+  </div>
+  <ul class="chosen-results"></ul>
+</div></div>
+                        <span class="ewb-area-name">市级</span>
+                        <select class="ewb-area-sel" id="shijiselect" style="display: none;">
+                            <option value="">不限</option>
+                        <option value="3301">杭州地区</option><option value="3302">宁波地区</option><option value="3303">温州地区</option><option value="3305">湖州地区</option><option value="3304">嘉兴地区</option><option value="3306">绍兴地区</option><option value="3307">金华地区</option><option value="3308">衢州地区</option><option value="3309">舟山地区</option><option value="3310">台州地区</option><option value="3311">丽水地区</option></select><div class="chosen-container chosen-container-single" title="" id="shijiselect_chosen" style="width: 187px;"><a class="chosen-single">
+  <span>不限</span>
+  <div><b></b></div>
+</a>
+<div class="chosen-drop">
+  <div class="chosen-search">
+    <input class="chosen-search-input" type="text" autocomplete="off">
+  </div>
+  <ul class="chosen-results"></ul>
+</div></div>
+                        <span class="ewb-area-name">县级</span>
+                        <select class="ewb-area-sel" id="xianjiselect" style="display: none;">
+                            <option value="">不限</option>
+                        </select><div class="chosen-container chosen-container-single chosen-container-single-nosearch" title="" id="xianjiselect_chosen" style="width: 187px;"><a class="chosen-single">
+  <span>不限</span>
+  <div><b></b></div>
+</a>
+<div class="chosen-drop">
+  <div class="chosen-search">
+    <input class="chosen-search-input" type="text" autocomplete="off" readonly="">
+  </div>
+  <ul class="chosen-results"></ul>
+</div></div>
+                    </div>
+                </div>
+                <div class="ewb-chose-mod clearfix">
+                    <span class="ewb-chose-name">交易领域：</span>
+                    <div class="ewb-chose-info">
+                        <div class="ewb-kind clearfix">
+                            <ul class="ewb-kind-items clearfix" style="padding-left: 16px;" id="jyly">
+                                <!-- <li class="ewb-kind-item cur">
+                                    <a href="#">不限</a>
+                                </li> -->
+                                <li class="ewb-kind-item cur">
+                                    <a href="javascript:void(0);" value="002001">工程建设</a>
+                                </li>
+                                <li class="ewb-kind-item">
+                                    <a href="javascript:void(0);" value="002002">政府采购</a>
+                                </li>
+                                <li class="ewb-kind-item">
+                                    <a href="javascript:void(0);" value="002003">土地矿产</a>
+                                </li>
+                                <li class="ewb-kind-item">
+                                    <a href="javascript:void(0);" value="002004">国有产权</a>
+                                </li>
+                                <!-- <li class="ewb-kind-item">
+                                    <a href="javascript:void(0);" value="002005">住房保障</a>
+								</li> -->
+							<!--	-->
+                                <!-- <li class="ewb-kind-item">
+                                    <a href="javascript:void(0);" value="002006">矿业权</a>
+                                </li> -->
+								<li class="ewb-kind-item">
+                                    <a href="javascript:void(0);" value="002009">林权交易</a>
+                                </li>
+								<li class="ewb-kind-item">
+                                    <a href="javascript:void(0);" value="002010">用能权</a>
+                                </li>
+								<li class="ewb-kind-item">
+                                    <a href="javascript:void(0);" value="002008">排污权</a>
+                                </li>
+                                <li class="ewb-kind-item">
+                                    <a href="javascript:void(0);" value="002007">其他交易</a>
+                                </li>
+								<!-- 
+								 -->
+								
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="ewb-chose-mod clearfix ewb-chose-tollge">
+                    <span class="ewb-chose-name">行业：</span>
+                    <div class="ewb-area clearfix" style="    padding-left: 28px;">
+                        <select class="ewb-area-sel ewb-spc" id="hangyeselect" style="display: none;">
+                            <option value="">请选择</option>
+                        <option value="A01">房屋建筑</option><option value="A02">市政</option><option value="A03">公路</option><option value="A04">铁路</option><option value="A05">民航</option><option value="A06">水运</option><option value="A07">水利</option><option value="A08">能源</option><option value="A09">邮电通信</option><option value="A99">其他</option></select><div class="chosen-container chosen-container-single" title="" id="hangyeselect_chosen" style="width: 255px;"><a class="chosen-single">
+  <span>请选择</span>
+  <div><b></b></div>
+</a>
+<div class="chosen-drop">
+  <div class="chosen-search">
+    <input class="chosen-search-input" type="text" autocomplete="off">
+  </div>
+  <ul class="chosen-results"></ul>
+</div></div>
+                        <span class="ewb-area-name ewb-spc">类别：</span>
+                        <select class="ewb-area-sel ewb-spc" id="leibieselect" style="display: none;">
+                            <option value="">不限</option>
+                        <option value="A">工程</option><option value="B">货物</option><option value="C">服务</option></select><div class="chosen-container chosen-container-single chosen-container-single-nosearch" title="" id="leibieselect_chosen" style="width: 255px;"><a class="chosen-single">
+  <span>不限</span>
+  <div><b></b></div>
+</a>
+<div class="chosen-drop">
+  <div class="chosen-search">
+    <input class="chosen-search-input" type="text" autocomplete="off" readonly="">
+  </div>
+  <ul class="chosen-results"></ul>
+</div></div>
+                    </div>
+                </div>
+                <div class="ewb-chosen-text clearfix">
+                    <div class="ewb-chosen-input">
+                        <div class="input-tips ewb-chosen-input-mod">
+                            <label class="input-placeholder" for="chosen-key">请输入关键字</label>
+                            <input class="input-box" type="text" id="chosen-key">
+                        </div>
+                        <button id="search">搜索</button>
+                    </div>
+                    <a href="javascript:void(0)" class="ewb-chosen-close">收起</a>
+                </div>
+    		</div>
+            <div class="clearfix">
+                <div class="ewb-menu">
+                    <ul class="ewb-menu-items" id="leftmenu">
+		  
+					<li class="ewb-menu-item cur">
+						<a href="javascript:void(0);" catenum="002001008">项目登记信息</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001001">招标公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001002">资格预审公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001006">澄清修改信息</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001007">资格预审结果信息</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001003">开标结果公示</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001004">中标候选人公示</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001005">中标结果公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001009">合同订立信息</a>
+					</li>
+				</ul>
+                </div>
+                <div class="ewb-info">
+                    <div class="ewb-info-hd clearfix">
+                        <a href="#" id="hdname">项目登记信息</a>
+                    </div>
+                    <div class="ewb-info-bd">
+                        <div class="ewb-line"></div>
+                        <ul class="ewb-public-items" id="list">
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/464868ba-2166-434e-b054-a6b6c23855ac.html" title="[金华市]金华市高端人才租赁用房项目" target="_blank" class="infotitle"><span style="color:red">[金华市]</span>金华市高端人才租赁用房项目
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/5bec8afb-1c39-41a4-9a82-96dd1529affe.html" title="[上虞区]2023年上虞区曹娥街道蒿坝排涝河整治工程" target="_blank" class="infotitle"><span style="color:red">[上虞区]</span>2023年上虞区曹娥街道蒿坝排涝河整治工程
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/4cf0755b-323a-4003-a3d5-eef616350b2a.html" title="[嵊州市]2023年度嵊州市小型水库（重要山塘）系统提升项目——长乐镇孔岭水库" target="_blank" class="infotitle"><span style="color:red">[嵊州市]</span>2023年度嵊州市小型水库（重要山塘）系统提升项目——长乐镇孔岭水库
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/12561f56-f545-4fee-ab40-19c745b492fb.html" title="[青田县]青田县石郭工业园区零直排改造工程" target="_blank" class="infotitle"><span style="color:red">[青田县]</span>青田县石郭工业园区零直排改造工程
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/29de592b-02e2-4e91-92b7-5a73351c3a79.html" title="[嵊州市]嵊州市长乐镇2023年小流域提升工程——江北排涝渠二期" target="_blank" class="infotitle"><span style="color:red">[嵊州市]</span>嵊州市长乐镇2023年小流域提升工程——江北排涝渠二期
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/318ff4ee-9b29-4392-90fd-181e28d554cf.html" title="[海盐县]海盐县保安服务有限公司于城车辆交易市场办公楼经营性装修" target="_blank" class="infotitle"><span style="color:red">[海盐县]</span>海盐县保安服务有限公司于城车辆交易市场办公楼经营性装修
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/d07a6384-9dfa-4ac3-b5d8-f45e8f329e1f.html" title="[青田县]青田县“十四五”农村饮用水提升工程-青田县2022年度腊口镇腊口村等36个村农村供水保障工程（温溪镇温溪新村）" target="_blank" class="infotitle"><span style="color:red">[青田县]</span>青田县“十四五”农村饮用水提升工程-青田县2022年度腊口镇腊口村等36个村农村供水保障工程（温溪镇温溪新村）
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/edf8e150-04e3-4a16-be77-1b48ec3256b7.html" title="[上虞区]2023年丰惠镇农村生活污水终端提升改造项目-一标" target="_blank" class="infotitle"><span style="color:red">[上虞区]</span>2023年丰惠镇农村生活污水终端提升改造项目-一标
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/f5795404-a9d3-4124-8668-a9ebf956a125.html" title="[富阳区]富政储出[2022]2号地块项目一期工程总承包项目" target="_blank" class="infotitle"><span style="color:red">[富阳区]</span>富政储出[2022]2号地块项目一期工程总承包项目
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/8f2a6318-fa68-4028-ac69-19668f54e9fe.html" title="[南浔区]南浔区公共卫生及医疗能力综合提升项目" target="_blank" class="infotitle"><span style="color:red">[南浔区]</span>南浔区公共卫生及医疗能力综合提升项目
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/667e5ea4-95a7-4f46-bb77-a9257baa3beb.html" title="[景宁县]澄照乡“大搬快聚•富民安居工程”旭阳安置点建设项目（一期）" target="_blank" class="infotitle"><span style="color:red">[景宁县]</span>澄照乡“大搬快聚•富民安居工程”旭阳安置点建设项目（一期）
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="/jyxxgk/002001/002001008/20230331/1801ac27-ec90-4335-816d-a998167b16f3.html" title="[义乌市]义乌市公安局执法办案管理中心改建工程" target="_blank" class="infotitle"><span style="color:red">[义乌市]</span>义乌市公安局执法办案管理中心改建工程
+										
+									</a>
+                                </div>
+                                <span class="ewb-date">2023-03-31</span>
+                            </li>
+    </ul>
+                    </div>
+                    <div class="pager"><ul class="m-pagination-page" style=""><li class="active"><a data-page-index="0">1</a></li><li><a data-page-index="1">2</a></li><li><a data-page-index="2">3</a></li><li><a data-page-index="3">4</a></li><li><a data-page-index="4">5</a></li><li><a data-page-index="5">6</a></li><li><a data-page-index="6">7</a></li><li><a data-page-index="7">8</a></li><li><a data-page-index="8">9</a></li></ul><div class="m-pagination-size" style="display: none;"><select data-page-btn="size"><option value="5">5</option><option value="10">10</option><option value="15">15</option><option value="20">20</option></select></div><div class="m-pagination-jump" style="display: none;"><div class="m-pagination-group"><input data-page-btn="jump" type="text"><button data-page-btn="jump" type="button">Go</button></div></div><div class="m-pagination-info" style="display: none;">1 ~ 12 of 107 entires</div></div>
+                </div>
+            </div>
+    	</div>
+    </div>
+	<div style="display:none" id="gcxmdiv">
+		  
+					<li class="ewb-menu-item cur">
+						<a href="javascript:void(0);" catenum="002001008">项目登记信息</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001001">招标公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001002">资格预审公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001006">澄清修改信息</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001007">资格预审结果信息</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001003">开标结果公示</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001004">中标候选人公示</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001005">中标结果公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002001009">合同订立信息</a>
+					</li>
+				</div>
+	<div style="display:none" id="zfcgdiv">
+		  
+					<li class="ewb-menu-item cur">
+						<a href="javascript:void(0);" catenum="002002001">采购公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002002005">竞争性磋商公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002002006">竞争性谈判公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002002008">询价公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002002002">中标成交公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002002003">更正公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002002004">采购合同</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002002007">废标公告</a>
+					</li>
+				</div>
+	<div style="display:none" id="tdkcdiv">
+		  
+					<li class="ewb-menu-item cur">
+						<a href="javascript:void(0);" catenum="002003001">土地使用权出让公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002003002">土地使用权成交公示</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002003003">探矿权招拍挂出让公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002003004">采矿权招拍挂出让公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002003005">探矿权招拍挂结果公示</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002003006">采矿权招拍挂结果公示</a>
+					</li>
+				</div>
+	<div style="display:none" id="cqjydiv">
+		  
+					<li class="ewb-menu-item cur">
+						<a href="javascript:void(0);" catenum="002004001">挂牌公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002004002">成交公告</a>
+					</li>
+				</div>
+	<div style="display:none" id="zfbzdiv">
+		  
+					<li class="ewb-menu-item cur">
+						<a href="javascript:void(0);" catenum="002005001">住房保障</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002005002">农村危房改造</a>
+					</li>
+				</div>
+	<div style="display:none" id="kyqdiv">
+		  
+					<li class="ewb-menu-item cur">
+						<a href="javascript:void(0);" catenum="002006001">交易公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002006002">交易结果</a>
+					</li>
+				</div>
+	<div style="display:none" id="qtjydiv">
+		  
+					<li class="ewb-menu-item cur">
+						<a href="javascript:void(0);" catenum="002007001">交易公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002007002">交易结果</a>
+					</li>
+				</div>
+	<div style="display:none" id="pwqdiv">
+		  
+					<li class="ewb-menu-item cur">
+						<a href="javascript:void(0);" catenum="002008001">政府储备出让公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002008002">政府储备出让结果公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002008003">企业排污权转让公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002008004">企业排污权转让结果公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002008005">企业排污权租赁公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002008006">企业排污权租赁结果公告</a>
+					</li>
+				</div>
+	<div style="display:none" id="lqdiv">
+		  
+					<li class="ewb-menu-item cur">
+						<a href="javascript:void(0);" catenum="002009001">交易公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002009002">交易结果</a>
+					</li>
+				</div>
+	<div style="display:none" id="ynqdiv">
+		  
+					<li class="ewb-menu-item cur">
+						<a href="javascript:void(0);" catenum="002010001">申购公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002010002">出让公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002010003">预交易公告</a>
+					</li>
+				  
+					<li class="ewb-menu-item">
+						<a href="javascript:void(0);" catenum="002010004">交易成功公告</a>
+					</li>
+				</div>
+    <!-- footer -->
+    <div id="footer" class="hidden"><!-- footer -->
+
+
+<div class="ewb-footer">
+    <div class="ewb-container">
+		    	<div class="ewb-sel">
+    		<ul class="ewb-sel-items clearfix">
+    			<li>
+    				<div class="ewb-sel-mod">
+						<select class="ewb-fl-sel" onchange="jump(this.options[this.selectedIndex].value)">
+                            
+										<option selected="" value="0">---省内交易平台---</option> 
+									
+												
+										<option value="http://new.zmctc.com/zjgcjy/">---浙江省电子招投标交易平台---</option>
+									
+										<option value="https://zfcg.czt.zj.gov.cn/">---浙江省政府采购---</option>
+									
+										<option value="https://www.zcygov.cn">---政采云---</option>
+									
+										<option value="https://td.zjgtjy.cn/view/trade/index">---浙江省土地使用权网上交易平台---</option>
+									
+										<option value="https://kyq.zjgtjy.cn/trade-engine/trade/index">---浙江省矿业权网上交易平台---</option>
+									
+										<option value="http://www.zjpse.com/">---浙江省产权交易所---</option>
+									
+										<option value="https://www.zjdlzb.com">---浙江省电力采购中心---</option>
+									
+										<option value="https://ynqjy.fzggw.zj.gov.cn/ent/gateway/home">---浙江省用能权交易平台---</option>
+									
+										<option value="http://www.zjpwq.net/cms/">---浙江省排污权交易系统---</option>
+									
+										<option value="https://www.zjyxcg.cn/">---浙江省药械采购平台---</option>
+									
+										<option value="https://ggzy.hzctc.hangzhou.gov.cn/">---杭州市公共资源交易网---</option>
+									
+										<option value="http://www.nbggzy.cn/cms">---宁波市公共资源交易网---</option>
+									
+										<option value="http://ggzyjy.wenzhou.gov.cn">---温州市公共资源交易网---</option>
+									
+										<option value="http://ggzy.huzhou.gov.cn/hzfront/">---湖州市公共资源交易网---</option>
+									
+										<option value="http://jxszwsjb.jiaxing.gov.cn/">---嘉兴市公共资源交易网---</option>
+									
+										<option value="http://ggb.sx.gov.cn/">---绍兴市公共资源交易网---</option>
+									
+										<option value="http://ggzyjy.jinhua.gov.cn">---金华市公共资源交易网---</option>
+									
+										<option value="http://ggzy.qz.gov.cn/">---衢州市公共资源交易网---</option>
+									
+										<option value="http://zsztb.zhoushan.gov.cn/">---舟山市公共资源交易网---</option>
+									
+										<option value="http://tzztb.zjtz.gov.cn/tzcms/">---台州市公共资源交易网---</option>
+									
+										<option value="http://lssggzy.lishui.gov.cn/lsweb/">---丽水市公共资源交易网---</option>
+									</select>
+    				</div>
+    			</li>
+    			<li>
+    				<div class="ewb-sel-mod">
+	    				<select class="ewb-fl-sel" onchange="jump(this.options[this.selectedIndex].value)">
+                            
+										<option selected="" value="0">---国家相关平台---</option> 
+									
+												
+										<option value="http://www.ggzy.gov.cn/">---全国公共资源交易平台---</option>
+									
+										<option value="http://www.cebpubservice.com">---中国招标投标公共服务平台---</option>
+									</select>
+    				</div>
+    			</li>
+    			<li>
+    				<div class="ewb-sel-mod">
+	    				<select class="ewb-fl-sel" onchange="jump(this.options[this.selectedIndex].value)">
+                            
+										<option selected="" value="0">---省内主要网站---</option> 
+									
+												
+										<option value="http://www.zjzwfw.gov.cn">---浙江政务服务网---</option>
+									
+										<option value="http://www.zj.gov.cn">---浙江省人民政府---</option>
+									
+										<option value="http://fzggw.zj.gov.cn/">---省发改委---</option>
+									
+										<option value="http://czt.zj.gov.cn/">---省财政厅---</option>
+									
+										<option value="http://zrzyt.zj.gov.cn/">---省自然资源厅---</option>
+									
+										<option value="http://gzw.zj.gov.cn/">---省国资委---</option>
+									
+										<option value="http://jst.zj.gov.cn/">---省建设厅---</option>
+									
+										<option value="http://jtyst.zj.gov.cn/">---省交通厅---</option>
+									
+										<option value="http://slt.zj.gov.cn/">---省水利厅---</option>
+									</select>
+    				</div>
+    			</li>
+    			<li>
+    				<div class="ewb-sel-mod">
+	    				<select class="ewb-fl-sel" onchange="jump(this.options[this.selectedIndex].value)">
+                            
+										<option selected="" value="0">---相关部门网站---</option> 
+									</select>
+    				</div>
+    			</li>
+    		</ul>
+    	</div>
+    	    	<div class="ewb-phone">
+    		<p><span>技术支持电话：0571-88808880， 政务咨询投诉举报电话：12345</span>	
+													<a href="/wzdt/sitemap.html" target="_blank" style="margin-left:10px;color:#7d7c7c;"><span>网站地图</span></a>
+											</p></div>
+    	<div class="ewb-foot-copy">
+    		<a href="http://bszs.conac.cn/sitename?method=show&amp;id=AE64B7B8436596C6E05310291AAC5567" target="_blank" style="top: -23px;" class="ewb-foot-img">
+    			<img src="http://dcs.conac.cn/image/blue.png" alt="">
+    		</a>
+ 
+    		<p><span>浙江政务服务网主办单位：浙江省人民政府办公厅</span></p>
+		<p><span>本服务提供单位：浙江省公共资源交易中心  单位地址：浙江省杭州市西湖区曙光路140号  单位电话：0571-87631177</span></p>
+
+
+    		<p><a href="javascript:void(0)" style="color:#7d7c7c;"><span>网站标识码：3300000139</span></a>
+<a href="http://beian.miit.gov.cn" target="_blank" style="color:#7d7c7c;"><span>备案：浙ICP备08102833号-3</span></a>
+		  <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010602011181" target="_blank" style="color:#7d7c7c;">
+		<span><img style="vertical-align: top;margin-top: 3px; margin-right: 4px;" src="/images/beian.png" alt="">浙公网安备 33010602011181号</span></a>
+		</p>
+	
+    	</div>
+    </div>
+</div>
+
+<script src="http://dcs.conac.cn/js/12/000/0000/41029350/CA120000000410293500002.js" type="text/javascript"></script>
+<!-- <span  style="display:none" ><script src="http://v1.cnzz.com/z_stat.php?id=1279942235&web_id=1279942235"></script> </span>  -->
+<script type="text/javascript"> 
+let data={
+ title:document.title,
+ url: window.location.href,
+ userId:'',
+ appid:'fgdn_ggzyjyfwpt',
+ areaCode:'330000000000',
+ moduleCode:'服务平台', 
+} 
+</script>
+
+<script type="text/javascript" language="javascript">
+    //设为首页
+    function SetHome(url){
+        if (document.all) {
+            document.body.style.behavior='url(#default#homepage)';
+               document.body.setHomePage(url);
+        }else{
+            alert("您好,您的浏览器不支持自动设置页面为首页功能,请您手动在浏览器里设置该页面为首页!");
+        }
+    }
+</script> 
+ 
+ 
+
+ 
+<script>
+
+	try {
+		(function (w, d, s, q, i) {
+			w[q] = w[q] || [];
+			var f = d.getElementsByTagName(s)[0], j = d.createElement(s);
+			j.async = true;
+			j.id = 'beacon-aplus';
+			j.src = 'https://alidt.alicdn.com/alilog/mlog/aplus_cloud.js?v=20200518';
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'aplus_queue');
+	} catch (error) {
+		console.log("发生异常:" + error);
+	}
+
+
+
+	$(function () {
+		// 一般日志（如点击、曝光）接收日志域名配置,action为接口名称，arguments为第一个为参数形参，第二个为参数值
+		try {
+			aplus_queue.push({
+				action: 'aplus.setMetaInfo', arguments: ['aplus-rhost-g', 'alog.zjzwfw.gov.cn']
+			});
+		} catch (error) {
+			console.log("发生异常:" + error);
+		}
+
+		try {
+			aplus_queue.push({
+				action: 'aplus.setMetaInfo', arguments: ['aplus-rhost-v', 'alog.zjzwfw.gov.cn']
+			});
+		} catch (error) {
+			console.log("发生异常:" + error);
+		}
+
+		try {
+			aplus_queue.push({
+				action: 'aplus.setMetaInfo',
+				arguments: ['appId', '74781848']
+			});
+		} catch (error) {
+			console.log("发生异常:" + error);
+		}
+
+
+
+
+		// 如采集用户信息是异步行为需要先执行这个BLOCK埋点
+		try {
+			aplus_queue.push({
+				action: 'aplus.setMetaInfo',
+				arguments: ['_hold', 'BLOCK']
+			});
+		} catch (error) {
+			console.log("发生异常:" + error);
+		}
+
+		// 设置用户信息
+		var uAgent = navigator.userAgent;
+		var userName = "";
+		var userId = "";
+
+		try {
+			aplus_queue.push({
+				action: "aplus.setMetaInfo",
+				arguments: ["_user_nick", userName]
+			});
+		} catch (error) {
+			console.log("发生异常:" + error);
+		}
+
+		try {
+			aplus_queue.push({
+				action: "aplus.setMetaInfo",
+				arguments: ["_user_id", userId]
+			});
+		} catch (error) {
+			console.log("发生异常:" + error);
+		}
+
+		try {
+			aplus_queue.push({
+				action: "aplus.setMetaInfo",
+				arguments: ["_dev_id", uAgent]
+			});
+		} catch (error) {
+			console.log("发生异常:" + error);
+		}
+		// 如采集用户信息是异步行为，需要先再设置完用户新后执行这个START埋点
+		// 此时被block住的日志会携带上用户信息逐条发出
+		try {
+			aplus_queue.push({
+				action: 'aplus.setMetaInfo',
+				arguments: ['_hold', 'START']
+			});
+		} catch (error) {
+			console.log("发生异常:" + error);
+		}
+
+
+
+		/** 需要根据页面来更换点击框的class名称，以及给其加上参数，最后就是埋点
+		 * 给所有初始化的点击事件选择器设置埋点 
+		 * @returns
+		 */
+		// $(".mqy_click_button").each(function(){
+		$("a").on("click", function () {
+			var mqy_params = $(this).attr("mqy_params");
+			//A+埋点
+			try {
+				aplus_queue.push({
+					'action': 'aplus.record', 'arguments': ["zjzwIndexExpose", 'CLK', mqy_params, 'GET']
+				})
+			} catch (error) {
+				console.log("发生异常:" + error);
+			}
+		});
+		// });	 
+	})
+
+	/**
+	 * 获取ip
+	 * @returns
+	 */
+	var IP = "";
+	$(function () {
+		var webid = "";
+		try {
+			$.ajax({
+				method: "GET",
+				async: false,
+				url: "https://www.zjzwfw.gov.cn/zjservice/home/getIp.do",
+				success: function (data, status) {
+					IP = data;
+				},
+			});
+		} catch (error) {
+			console.log("发生异常:" + error);
+		}
+	})
+
+	var refer_page = document.referrer;
+	var page_url = window.location.href;
+
+	/**
+	 * 获取站点id
+	 * @returns
+	 */
+
+	var webid = GetQueryString('webId');
+	var adcode = GetQueryString('adcode');
+	function GetQueryString(name) {
+		var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+		var r = window.location.search.substr(1).match(reg);
+		var context = "";
+		if (r != null)
+			context = r[2];
+		reg = null;
+		r = null;
+		return context == null || context == "" || context == "undefined" ? "" : context;
+	}
+
+
+	/**
+	 * 给所有ajax加载的点击选择器设置埋点 就是给下拉框埋点
+	 * @param selector
+	 * @param param
+	 * @returns
+	 */
+	function setClick(selector, param) {
+		if ($(selector).length == 0) {
+			try {
+				throw new Error("selector is required");
+			} catch (err) {
+				return
+			}
+		}
+		if (param) {
+			var seedId = param.seedId || '';
+			var seedClass = param.seedClass || '';
+			if (seedId == '' || seedClass == '') {
+				try {
+					throw new Error("seedId and seedClass is required");
+				} catch (err) {
+					return
+				}
+			}
+			$(selector).addClass(seedClass);
+			$(selector).attr("mqy_name_click", seedId);
+			$.each($(selector), function (index, item) {
+				var seedParam = param.seedParam || '';
+				var seedParamObj = seedParam;
+				if (typeof seedParam == 'function') {
+					seedParamObj = seedParam.call(this);
+				}
+				if (seedParamObj) {
+					$(this).attr("mqy_params_click", encodeURI(JSON.stringify(seedParamObj)));
+				}
+			})
+		}
+
+
+		$(selector).on("click", function () {
+			var mqy_params = $(this).attr("mqy_params_click");
+			var mqy_name = $(this).attr("mqy_name_click");
+			//A+埋点
+			try {
+				aplus_queue.push({
+					'action': 'aplus.record', 'arguments': [mqy_name, 'CLK', mqy_params, 'GET']
+				})
+			} catch (error) {
+				console.log("发生异常:" + error);
+			}
+		});
+
+
+	}
+
+
+	/**
+	 * 给所有ajax加载的曝光选择器设置埋点
+	 * @param selector
+	 * @param param
+	 * @returns
+	 */
+	function setExpose(selector, param) {
+		if ($(selector).length == 0) {
+			try {
+				throw new Error("selector is required");
+			} catch (err) {
+				return
+			}
+		}
+		if (param) {
+			var seedId = param.seedId || '';
+			var seedClass = param.seedClass || '';
+			if (seedId == '' || seedClass == '') {
+				try {
+					throw new Error("seedId and seedClass is required");
+				} catch (err) {
+					return
+				}
+			}
+			$(selector).addClass(seedClass);
+			$(selector).attr("mqy_name_expose", seedId);
+			$.each($(selector), function (index, item) {
+				var seedParam = param.seedParam || '';
+				var seedParamObj = seedParam;
+				if (typeof seedParam == 'function') {
+					seedParamObj = seedParam.call(this);
+				}
+				if (seedParamObj) {
+					$(this).attr("mqy_params_expose", encodeURI(JSON.stringify(seedParamObj)));
+				}
+				var mqy_params = $(this).attr("mqy_params_expose");
+				var mqy_name = $(this).attr("mqy_name_expose");
+				//A+埋点
+				aplus_queue.push({
+					'action': 'aplus.record', 'arguments': [mqy_name, 'EXP', mqy_params, 'GET']
+				})
+			})
+		} else {
+			$(selector).each(function () {
+				var mqy_params = $(this).attr("mqy_params_expose");
+				var mqy_name = $(this).attr("mqy_name");
+				aplus_queue.push({
+					'action': 'aplus.record', 'arguments': [mqy_name, 'EXP', mqy_params, 'GET']
+				})
+			});
+		}
+	}
+
+
+	$(function () {
+		try {
+			pageName = $("title").text();
+			page_type = $("meta[name='ColumnType']").attr("content");
+			site_id = $("meta[name='SiteIDCode']").attr("content");
+			var t1 = new Date().getTime();
+			var userId;
+			var userNick;
+			var userType;
+			var t0;
+
+			var newParam = {
+				//seedClass: param.seedClass || "mqy_click_button",
+				"refer_page_name": pageName,
+				"biz_user_id": userId,
+				"biz_user_nick": userNick,
+				"page_type": "应用",
+				"userType": userType,
+				"site_id": webid,
+				"t0": t0,
+				"IP": IP,
+				"t1": "",
+				"refer_page": refer_page,
+				"page": page_url
+			}
+			aplus_queue.push({
+				'action': 'aplus.record', 'arguments': ["zjzwIndexExpose", 'EXP', encodeURI(JSON.stringify(newParam)), 'GET']
+			})
+		} catch (error) {
+			console.log("发生异常:" + error);
+		}
+
+	})
+
+
+</script>
+</div>
+	
+    <!-- 页面脚本 -->
+	<script type="text/template" id="infolist">
+        {{#items}}
+		<li class="ewb-public-item clearfix">
+                                <div class="ewb-public-forus clearfix">
+                                    <i class="ewb-dian"></i>
+									<a href="{{linkurl}}" title="{{title}}" target="_blank" class="infotitle"><span style="color:red">[{{infod}}]</span>{{{title}}}
+										{{#isnew}}<img src="/images/new.gif">{{/isnew}}
+									</a>
+                                </div>
+                                <span class="ewb-date">{{infodateformat}}</span>
+                            </li>
+         {{/items}}
+    </script>
+	<script src="/js/webBuilderCommon.js"></script>
+	<script src="/js/js.cookie.min.js"></script>
+	<script src="/js/Common.min.js"></script>
+	<!-- <script src="/js/pageView.js"></script> --> <script src="/js/lib/layer/layer.js"></script> 
+    <script src="/js/lib/placeholder.min.js"></script>
+    <script src="/js/common.js"></script><script src="/js/pageView.js"></script><link rel="stylesheet" href="/zhejiangnew/css/common.css">
+    <script src="/js/lib/datepicker/bootstrap-datetimepicker.min.js"></script>
+    <script src="/js/lib/datepicker/bootstrap-datetimepicker.zh-CN.js"></script>
+    <script src="/js/lib/chosen/chosen.jquery.js"></script>
+    <script src="/js/lib/pagination/mricode.paginationjyxx.js"></script>
+<script src="/js/popAD.js"></script>
+	<script src="/js/moveAD.js"></script>
+    <script src="/js/floatAD.js"></script>
+    <script src="/js/list.js"></script><div class="datetimepicker datetimepicker-dropdown-bottom-right dropdown-menu" style="left: 859.6px; z-index: 1010;"><div class="datetimepicker-minutes" style="display: none;"><table class=" table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th colspan="5" class="switch">3 四月 2023</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="minute">9:00</span><span class="minute">9:05</span><span class="minute">9:10</span><span class="minute">9:15</span><span class="minute active">9:20</span><span class="minute">9:25</span><span class="minute">9:30</span><span class="minute">9:35</span><span class="minute">9:40</span><span class="minute">9:45</span><span class="minute">9:50</span><span class="minute">9:55</span></td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">今天</th></tr><tr><th colspan="7" class="clear" style="display: none;">Clear</th></tr></tfoot></table></div><div class="datetimepicker-hours" style="display: none;"><table class=" table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th colspan="5" class="switch">3 四月 2023</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="hour">0:00</span><span class="hour">1:00</span><span class="hour">2:00</span><span class="hour">3:00</span><span class="hour">4:00</span><span class="hour">5:00</span><span class="hour">6:00</span><span class="hour">7:00</span><span class="hour">8:00</span><span class="hour active">9:00</span><span class="hour">10:00</span><span class="hour">11:00</span><span class="hour">12:00</span><span class="hour">13:00</span><span class="hour">14:00</span><span class="hour">15:00</span><span class="hour">16:00</span><span class="hour">17:00</span><span class="hour">18:00</span><span class="hour">19:00</span><span class="hour">20:00</span><span class="hour">21:00</span><span class="hour">22:00</span><span class="hour">23:00</span></td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">今天</th></tr><tr><th colspan="7" class="clear" style="display: none;">Clear</th></tr></tfoot></table></div><div class="datetimepicker-days" style="display: block;"><table class=" table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th colspan="5" class="switch">四月 2023</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr><tr><th class="dow">日</th><th class="dow">一</th><th class="dow">二</th><th class="dow">三</th><th class="dow">四</th><th class="dow">五</th><th class="dow">六</th></tr></thead><tbody><tr><td class="day old">26</td><td class="day old">27</td><td class="day old">28</td><td class="day old">29</td><td class="day old">30</td><td class="day old">31</td><td class="day">1</td></tr><tr><td class="day">2</td><td class="day active">3</td><td class="day">4</td><td class="day">5</td><td class="day">6</td><td class="day">7</td><td class="day">8</td></tr><tr><td class="day">9</td><td class="day">10</td><td class="day">11</td><td class="day">12</td><td class="day">13</td><td class="day">14</td><td class="day">15</td></tr><tr><td class="day">16</td><td class="day">17</td><td class="day">18</td><td class="day">19</td><td class="day">20</td><td class="day">21</td><td class="day">22</td></tr><tr><td class="day">23</td><td class="day">24</td><td class="day">25</td><td class="day">26</td><td class="day">27</td><td class="day">28</td><td class="day">29</td></tr><tr><td class="day">30</td><td class="day new">1</td><td class="day new">2</td><td class="day new">3</td><td class="day new">4</td><td class="day new">5</td><td class="day new">6</td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">今天</th></tr><tr><th colspan="7" class="clear" style="display: none;">Clear</th></tr></tfoot></table></div><div class="datetimepicker-months" style="display: none;"><table class="table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th colspan="5" class="switch">2023</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="month">一月</span><span class="month">二月</span><span class="month">三月</span><span class="month active">四月</span><span class="month">五月</span><span class="month">六月</span><span class="month">七月</span><span class="month">八月</span><span class="month">九月</span><span class="month">十月</span><span class="month">十一月</span><span class="month">十二月</span></td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">今天</th></tr><tr><th colspan="7" class="clear" style="display: none;">Clear</th></tr></tfoot></table></div><div class="datetimepicker-years" style="display: none;"><table class="table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th colspan="5" class="switch">2020-2029</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="year ">2019</span><span class="year">2020</span><span class="year">2021</span><span class="year">2022</span><span class="year active">2023</span><span class="year">2024</span><span class="year">2025</span><span class="year">2026</span><span class="year">2027</span><span class="year">2028</span><span class="year">2029</span><span class="year ">2030</span></td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">今天</th></tr><tr><th colspan="7" class="clear" style="display: none;">Clear</th></tr></tfoot></table></div></div><div class="datetimepicker datetimepicker-dropdown-bottom-right dropdown-menu" style="left: 1018.1px; z-index: 1020;"><div class="datetimepicker-minutes" style="display: none;"><table class=" table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th colspan="5" class="switch">3 四月 2023</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="minute">9:00</span><span class="minute">9:05</span><span class="minute">9:10</span><span class="minute">9:15</span><span class="minute active">9:20</span><span class="minute">9:25</span><span class="minute">9:30</span><span class="minute">9:35</span><span class="minute">9:40</span><span class="minute">9:45</span><span class="minute">9:50</span><span class="minute">9:55</span></td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">今天</th></tr><tr><th colspan="7" class="clear" style="display: none;">Clear</th></tr></tfoot></table></div><div class="datetimepicker-hours" style="display: none;"><table class=" table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th colspan="5" class="switch">3 四月 2023</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="hour">0:00</span><span class="hour">1:00</span><span class="hour">2:00</span><span class="hour">3:00</span><span class="hour">4:00</span><span class="hour">5:00</span><span class="hour">6:00</span><span class="hour">7:00</span><span class="hour">8:00</span><span class="hour active">9:00</span><span class="hour">10:00</span><span class="hour">11:00</span><span class="hour">12:00</span><span class="hour">13:00</span><span class="hour">14:00</span><span class="hour">15:00</span><span class="hour">16:00</span><span class="hour">17:00</span><span class="hour">18:00</span><span class="hour">19:00</span><span class="hour">20:00</span><span class="hour">21:00</span><span class="hour">22:00</span><span class="hour">23:00</span></td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">今天</th></tr><tr><th colspan="7" class="clear" style="display: none;">Clear</th></tr></tfoot></table></div><div class="datetimepicker-days" style="display: block;"><table class=" table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th colspan="5" class="switch">四月 2023</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr><tr><th class="dow">日</th><th class="dow">一</th><th class="dow">二</th><th class="dow">三</th><th class="dow">四</th><th class="dow">五</th><th class="dow">六</th></tr></thead><tbody><tr><td class="day old">26</td><td class="day old">27</td><td class="day old">28</td><td class="day old">29</td><td class="day old">30</td><td class="day old">31</td><td class="day">1</td></tr><tr><td class="day">2</td><td class="day active">3</td><td class="day">4</td><td class="day">5</td><td class="day">6</td><td class="day">7</td><td class="day">8</td></tr><tr><td class="day">9</td><td class="day">10</td><td class="day">11</td><td class="day">12</td><td class="day">13</td><td class="day">14</td><td class="day">15</td></tr><tr><td class="day">16</td><td class="day">17</td><td class="day">18</td><td class="day">19</td><td class="day">20</td><td class="day">21</td><td class="day">22</td></tr><tr><td class="day">23</td><td class="day">24</td><td class="day">25</td><td class="day">26</td><td class="day">27</td><td class="day">28</td><td class="day">29</td></tr><tr><td class="day">30</td><td class="day new">1</td><td class="day new">2</td><td class="day new">3</td><td class="day new">4</td><td class="day new">5</td><td class="day new">6</td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">今天</th></tr><tr><th colspan="7" class="clear" style="display: none;">Clear</th></tr></tfoot></table></div><div class="datetimepicker-months" style="display: none;"><table class="table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th colspan="5" class="switch">2023</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="month">一月</span><span class="month">二月</span><span class="month">三月</span><span class="month active">四月</span><span class="month">五月</span><span class="month">六月</span><span class="month">七月</span><span class="month">八月</span><span class="month">九月</span><span class="month">十月</span><span class="month">十一月</span><span class="month">十二月</span></td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">今天</th></tr><tr><th colspan="7" class="clear" style="display: none;">Clear</th></tr></tfoot></table></div><div class="datetimepicker-years" style="display: none;"><table class="table-condensed"><thead><tr><th class="prev" style="visibility: visible;"><i class="glyphicon icon-arrow-left"></i></th><th colspan="5" class="switch">2020-2029</th><th class="next" style="visibility: visible;"><i class="glyphicon icon-arrow-right"></i></th></tr></thead><tbody><tr><td colspan="7"><span class="year ">2019</span><span class="year">2020</span><span class="year">2021</span><span class="year">2022</span><span class="year active">2023</span><span class="year">2024</span><span class="year">2025</span><span class="year">2026</span><span class="year">2027</span><span class="year">2028</span><span class="year">2029</span><span class="year ">2030</span></td></tr></tbody><tfoot><tr><th colspan="7" class="today" style="display: none;">今天</th></tr><tr><th colspan="7" class="clear" style="display: none;">Clear</th></tr></tfoot></table></div></div>
+<span id="_ideConac" style="display:none"><a href="https://bszs.conac.cn/sitename?method=show&amp;id=AE64B7B8436596C6E05310291AAC5567" target="_blank"><img id="imgConac" vspace="0" hspace="0" border="0" src="https://dcs.conac.cn/image/blue.png" data-bd-imgshare-binded="1"></a></span><script src="http://dcs.conac.cn/js/12/000/0000/41029350/CA120000000410293500002.js" type="text/javascript"></script><span id="_ideConac"></span>
+<span style="display:none"><script src="http://v1.cnzz.com/z_stat.php?id=1279942235&amp;web_id=1279942235"></script><script src="http://c.cnzz.com/core.php?web_id=1279942235&amp;t=z" charset="utf-8" type="text/javascript"></script><a href="https://www.cnzz.com/stat/website.php?web_id=1279942235" target="_blank" title="站长统计">站长统计</a> </span> 
+	
+	<script>
+		var deptName = "浙江省公共资源交易中心"; 
+		var deptPhone = "0571-87631177"; 
+		var deptAddress = "浙江省杭州市西湖区曙光路140号"; 
+	</script>  
+	<script src="//zjjcmspublic.oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn/jcms_files/jcms1/web1/site/script/1083/2009211541482763.js"></script>  
+	<script defer="" async="" type="text/javascript" src="//wza.zj.gov.cn/dist/aria.js?appid=076c4bf59c6ffa69d1d1391e782fe382" charset="utf-8"></script> 
+	
+<script type="text/javascript">
+	    new FloatAd({
+            // 浮动元素dom
+            dom: '#floatAd',
+            // 元素宽度
+            width: $('#floatAd').width(),
+            //元素高度
+            height: $('#floatAd').height(),
+            // 步长
+            step: 1,
+            // 延时
+            delay: 30
+        });
+        new MoveAd({
+            // 浮动元素dom
+            dom: '.move-list',
+            // 元素宽度
+            width: 100,
+            // 元素高度
+            height: 300,
+            // 初始高度
+            sTop: 25,
+            // 关闭按钮
+            closeDom: '.close'
+        });
+
+    </script>
+
+
+</body></html>
